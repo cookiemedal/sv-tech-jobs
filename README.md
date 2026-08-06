@@ -1,6 +1,6 @@
 # Empleos Tech en El Salvador
 
-**Actualizado: 2026-08-06 10:52 (America/El_Salvador)**
+**Actualizado: 2026-08-06 11:24 (America/El_Salvador)**
 
 Ofertas tecnológicas verificadas como activas y disponibles para personas en El Salvador. Dentro de cada categoría se muestran primero las publicaciones más recientes. La modalidad y el salario se transcriben únicamente cuando la oferta los declara de forma explícita.
 
@@ -78,15 +78,40 @@ Ofertas tecnológicas verificadas como activas y disponibles para personas en El
 
 ## Hallazgos adicionales mediante sesión de LinkedIn
 
-Las siguientes ofertas se encontraron el 6 de agosto de 2026 usando una sesión autenticada de LinkedIn, con la ubicación de búsqueda configurada en **El Salvador**. Las páginas individuales seguían accesibles al momento de la revisión y no estaban repetidas en la lista anterior.
+Las siguientes ofertas se encontraron el 6 de agosto de 2026 recorriendo los resultados cargables de cuatro búsquedas separadas en una sesión autenticada de LinkedIn, con la ubicación configurada en **El Salvador**. Se excluyeron recomendaciones sin relación directa con el término buscado y se eliminaron duplicados entre búsquedas y contra la lista principal.
 
-| Puesto | Empresa | Modalidad | Ubicación mostrada | Salario | Antigüedad | Fecha de publicación | Fuente | Enlace |
-|---|---|---|---|---|---|---|---|---|
-| Vibe Coder | Remote Leverage | Remoto | América Latina; disponible en búsqueda desde El Salvador | No publicado | Hoy | 2026-08-06 | LinkedIn Jobs (sesión autenticada) | [Ver oferta](https://www.linkedin.com/jobs/view/4448609478/) |
-| Senior Python Developer - AI | Fast Dolphin | Remoto | América Latina; disponible en búsqueda desde El Salvador | No publicado | Hoy | 2026-08-06 | LinkedIn Jobs (sesión autenticada) | [Ver oferta](https://www.linkedin.com/jobs/view/4450285685/) |
-| Full Stack Developer - Shopify | Right Balance | Remoto | América Latina; disponible en búsqueda desde El Salvador | No publicado | Hoy | 2026-08-06 | LinkedIn Jobs (sesión autenticada) | [Ver oferta](https://www.linkedin.com/jobs/view/4446156379/) |
-| Full Stack Developer | Remote Leverage | Remoto | América Latina; disponible en búsqueda desde El Salvador | No publicado | Hoy | 2026-08-06 | LinkedIn Jobs (sesión autenticada) | [Ver oferta](https://www.linkedin.com/jobs/view/4448602375/) |
-| Azure Databricks Data Engineer | Elios AI | Remoto | América Latina; disponible en búsqueda desde El Salvador | No publicado | Hoy | 2026-08-06 | LinkedIn Jobs (sesión autenticada) | [Ver oferta](https://www.linkedin.com/jobs/view/4449749888/) |
+### Python (3 resultados)
+
+| Puesto | Empresa | Modalidad | Ubicación mostrada | Salario | Antigüedad | Fuente | Enlace |
+|---|---|---|---|---|---|---|---|
+| Senior Python Developer - AI | Fast Dolphin | Remoto | América Latina; disponible en búsqueda desde El Salvador | No publicado | Hoy | LinkedIn Jobs (sesión autenticada) | [Ver oferta](https://www.linkedin.com/jobs/view/4450285685/) |
+| Senior Backend Developer Node/Python | Halo Media | Remoto | América Latina; disponible en búsqueda desde El Salvador | No publicado | Hace 3 horas | LinkedIn Jobs (sesión autenticada) | [Ver oferta](https://www.linkedin.com/jobs/view/4449755285/) |
+| Python Developer | ioet Inc. | Remoto | América Latina; disponible en búsqueda desde El Salvador | No publicado | Hace 23 horas | LinkedIn Jobs (sesión autenticada) | [Ver oferta](https://www.linkedin.com/jobs/view/4449674378/) |
+
+### Vibe Coder (1 resultado)
+
+| Puesto | Empresa | Modalidad | Ubicación mostrada | Salario | Antigüedad | Fuente | Enlace |
+|---|---|---|---|---|---|---|---|
+| Vibe Coder | Remote Leverage | Remoto | América Latina; disponible en búsqueda desde El Salvador | No publicado | Hoy | LinkedIn Jobs (sesión autenticada) | [Ver oferta](https://www.linkedin.com/jobs/view/4448609478/) |
+
+### Data Engineer (6 resultados)
+
+| Puesto | Empresa | Modalidad | Ubicación mostrada | Salario | Antigüedad | Fuente | Enlace |
+|---|---|---|---|---|---|---|---|
+| Senior Database Reliability Engineer Latin America | Sezzle LA | Remoto | América Latina; disponible en búsqueda desde El Salvador | No publicado | Hoy | LinkedIn Jobs (sesión autenticada) | [Ver oferta](https://www.linkedin.com/jobs/view/4450605159/) |
+| Ingeniero SQL - Trabajo Remoto | BairesDev | Remoto | América Latina; disponible en búsqueda desde El Salvador | No publicado | Hoy | LinkedIn Jobs (sesión autenticada) | [Ver oferta](https://www.linkedin.com/jobs/view/4449777215/) |
+| Azure Databricks Data Engineer | Elios AI | Remoto | América Latina; disponible en búsqueda desde El Salvador | No publicado | Hoy | LinkedIn Jobs (sesión autenticada) | [Ver oferta](https://www.linkedin.com/jobs/view/4449749888/) |
+| Data Engineer | IFIT Solutions | Remoto | América Latina; disponible en búsqueda desde El Salvador | No publicado | Hace 2 horas | LinkedIn Jobs (sesión autenticada) | [Ver oferta](https://www.linkedin.com/jobs/view/4450276493/) |
+| Staff Data Analytics Engineer | Function Health | Remoto | América Latina; disponible en búsqueda desde El Salvador | No publicado | Hace 5 horas | LinkedIn Jobs (sesión autenticada) | [Ver oferta](https://www.linkedin.com/jobs/view/4438474487/) |
+| Data Engineer / Sr. Data Engineer - LatAm | databridge AG | Remoto | América Latina; disponible en búsqueda desde El Salvador | No publicado | Hace 7 horas | LinkedIn Jobs (sesión autenticada) | [Ver oferta](https://www.linkedin.com/jobs/view/4448065237/) |
+
+### Full Stack (3 resultados)
+
+| Puesto | Empresa | Modalidad | Ubicación mostrada | Salario | Antigüedad | Fuente | Enlace |
+|---|---|---|---|---|---|---|---|
+| Full Stack Developer - Shopify | Right Balance | Remoto | América Latina; disponible en búsqueda desde El Salvador | No publicado | Hoy | LinkedIn Jobs (sesión autenticada) | [Ver oferta](https://www.linkedin.com/jobs/view/4446156379/) |
+| Full Stack Developer | Remote Leverage | Remoto | América Latina; disponible en búsqueda desde El Salvador | No publicado | Hoy | LinkedIn Jobs (sesión autenticada) | [Ver oferta](https://www.linkedin.com/jobs/view/4448602375/) |
+| Fullstack Developer [Java / React] Temporal - 6 meses | Tekton Labs | Remoto | América Latina; disponible en búsqueda desde El Salvador | No publicado | Hace 3 horas | LinkedIn Jobs (sesión autenticada) | [Ver oferta](https://www.linkedin.com/jobs/view/4401966067/) |
 
 ---
 

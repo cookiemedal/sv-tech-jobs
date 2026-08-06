@@ -1,6 +1,6 @@
 # Empleos Tech en El Salvador
 
-**Actualizado: 2026-08-05 22:14 (America/El_Salvador)**
+**Actualizado: 2026-08-06 07:09 (America/El_Salvador)**
 
 Ofertas tecnológicas verificadas como activas y disponibles para personas en El Salvador. Dentro de cada categoría se muestran primero las publicaciones más recientes. La modalidad y el salario se transcriben únicamente cuando la oferta los declara de forma explícita.
 
@@ -8,53 +8,63 @@ Ofertas tecnológicas verificadas como activas y disponibles para personas en El
 
 | Puesto | Empresa | Modalidad | Ubicación | Salario | Antigüedad | Fecha de publicación | Fuente | Enlace |
 |---|---|---|---|---|---|---|---|---|
-| Dotnet Developer | The Functionary | No indicada | San Salvador, El Salvador | No publicado | Hoy | 2026-08-05 | LinkedIn Jobs | [Ver oferta](https://sv.linkedin.com/jobs/view/dotnet-developer-at-the-functionary-4449669971) |
-| Desarrollador Angular - Trabajo Remoto | BairesDev | Remoto | El Salvador | No publicado | Hace 2 días | No disponible | LinkedIn Jobs | [Ver oferta](https://sv.linkedin.com/jobs/view/desarrollador-angular-trabajo-remoto-at-bairesdev-4448231003) |
-| Android Developer | Applaudo | No indicada | San Salvador, El Salvador | No publicado | Hace 2 días | 2026-08-03 | LinkedIn Jobs | [Ver oferta](https://sv.linkedin.com/jobs/view/android-developer-at-applaudo-4448617367) |
-| Desarrollador Java | OE Internacional | No indicada | San Salvador, El Salvador | No publicado | Hace 2 días | 2026-08-03 | Tecoloco | [Ver oferta](https://www.tecoloco.com.sv/1098407/analista-programador.aspx) |
-| Desarrollador Oracle | PROWORK2 | Híbrido | San Salvador, El Salvador | No publicado | Hace 5 días | 2026-07-31 | Tecoloco | [Ver oferta](https://www.tecoloco.com.sv/1098131/ingeniero-en-sistemas.aspx) |
-| Desarrollador Java | Blanco Silva Consultoría Informática S.A. | Híbrido | San Salvador, El Salvador | No publicado | Hace 5 días | 2026-07-31 | Tecoloco | [Ver oferta](https://www.tecoloco.com.sv/1098002/programador.aspx) |
-| Desarrollador .NET | Blanco Silva Consultoría Informática S.A. | No indicada | Cualquier departamento, El Salvador | No publicado | Hace 5 días | 2026-07-31 | Tecoloco | [Ver oferta](https://www.tecoloco.com.sv/1097998/analista-programador.aspx) |
+| Dotnet Developer | The Functionary | No indicada | San Salvador, El Salvador | No publicado | Hace 1 día | 2026-08-05 | LinkedIn Jobs | [Ver oferta](https://sv.linkedin.com/jobs/view/dotnet-developer-at-the-functionary-4449669971) |
+| Desarrollador Java | OE Internacional | No indicada | San Salvador, El Salvador | 1,500–1,550 USD; periodicidad no indicada | Hace 3 días | 2026-08-03 | Tecoloco | [Ver oferta](https://www.tecoloco.com.sv/1098407/analista-programador.aspx) |
+| Android Developer | Applaudo | No indicada | San Salvador, El Salvador | No publicado | Hace 3 días | 2026-08-03 | LinkedIn Jobs | [Ver oferta](https://sv.linkedin.com/jobs/view/android-developer-at-applaudo-4448617367) |
+| iOS Developer | Applaudo | No indicada | San Salvador, El Salvador | No publicado | Hace 3 días | 2026-08-03 | LinkedIn Jobs | [Ver oferta](https://sv.linkedin.com/jobs/view/ios-developer-at-applaudo-4448609785) |
+| Desarrollador Oracle | PROWORK2 | Híbrido | San Salvador, El Salvador | 1,000–1,600 USD; periodicidad no indicada | Hace 6 días | 2026-07-31 | Tecoloco | [Ver oferta](https://www.tecoloco.com.sv/1098131/ingeniero-en-sistemas.aspx) |
+| Desarrollador Java | Blanco Silva Consultoría Informática S.A. | Híbrido | San Salvador, El Salvador | 1,300 USD; periodicidad no indicada | Hace 6 días | 2026-07-31 | Tecoloco | [Ver oferta](https://www.tecoloco.com.sv/1098002/programador.aspx) |
+| Desarrollador .NET | Blanco Silva Consultoría Informática S.A. | No indicada | Cualquier departamento, El Salvador | 1,200 USD; periodicidad no indicada | Hace 6 días | 2026-07-31 | Tecoloco | [Ver oferta](https://www.tecoloco.com.sv/1097998/analista-programador.aspx) |
 
 ## 2. QA y testing
 
 | Puesto | Empresa | Modalidad | Ubicación | Salario | Antigüedad | Fecha de publicación | Fuente | Enlace |
 |---|---|---|---|---|---|---|---|---|
-| Tester QA | HUMAN RESOURCES COMPANY S.A. DE C.V. | No indicada | San Salvador, El Salvador | 499.00 USD mensuales | Hoy | No disponible | Computrabajo | [Ver oferta](https://sv.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-tester-qa-temporal-para-institucion-financiera-en-san-salvador-3C5A46C454FC95C461373E686DCF3405) |
-| QA Automation Engineer | Babel | No indicada | San Salvador, El Salvador | No publicado | Hace 2 días | 2026-08-03 | LinkedIn Jobs | [Ver oferta](https://sv.linkedin.com/jobs/view/qa-automation-engineer-at-babel-4448695724) |
-| Analista QA | OE Internacional | No indicada | San Salvador, El Salvador | No publicado | Hace 2 días | 2026-08-03 | Tecoloco | [Ver oferta](https://www.tecoloco.com.sv/1098419/ingeniero-en-sistemas.aspx) |
+| QA Automation Engineer | Babel | No indicada | San Salvador, El Salvador | No publicado | Hace 2 días | 2026-08-04 | LinkedIn Jobs | [Ver oferta](https://sv.linkedin.com/jobs/view/qa-automation-engineer-at-babel-4448695724) |
+| Analista QA | OE Internacional | No indicada | San Salvador, El Salvador | 900–1,100 USD; periodicidad no indicada | Hace 3 días | 2026-08-03 | Tecoloco | [Ver oferta](https://www.tecoloco.com.sv/1098419/ingeniero-en-sistemas.aspx) |
+| Quality Assurance Tester | TELUS Digital | No indicada | San Salvador, El Salvador | No publicado | Hace 5 días | 2026-08-01 | LinkedIn Jobs | [Ver oferta](https://sv.linkedin.com/jobs/view/quality-assurance-tester-at-telus-digital-4447414322) |
+| Senior QA Engineer | Sapphire Labs | No indicada | San Salvador, El Salvador | No publicado | Hace 5 días | 2026-08-01 | LinkedIn Jobs | [Ver oferta](https://sv.linkedin.com/jobs/view/senior-qa-engineer-at-sapphire-labs-4447780359) |
 
 ## 3. Datos e inteligencia artificial
 
 | Puesto | Empresa | Modalidad | Ubicación | Salario | Antigüedad | Fecha de publicación | Fuente | Enlace |
 |---|---|---|---|---|---|---|---|---|
-| Consultor(a) Snr Data & AI Engineering | Deloitte | No indicada | San Salvador, El Salvador | No publicado | Hoy | 2026-08-05 | LinkedIn Jobs | [Ver oferta](https://sv.linkedin.com/jobs/view/consultor-a-snr-data-ai-engineering-at-deloitte-4449669287) |
-| Power Platform IA y Microsoft Copilot | Deloitte | No indicada | San Salvador, El Salvador | No publicado | Hoy | 2026-08-05 | LinkedIn Jobs | [Ver oferta](https://sv.linkedin.com/jobs/view/power-platform-ia-y-microsoft-copilot-at-deloitte-4449667946) |
-| Arquitecto de Datos de Inteligencia de Negocios y Analítica | Aseguradora ACSA | No indicada | San Salvador, El Salvador | No publicado | Hace 6 días | 2026-07-30 | LinkedIn Jobs | [Ver oferta](https://sv.linkedin.com/jobs/view/arquitecto-de-datos-de-inteligencia-de-negocios-y-anal%C3%ADtica-at-aseguradora-acsa-4445021347) |
+| Data Analyst | AppDirect | No indicada | La Libertad, El Salvador | No publicado | Hoy | 2026-08-06 | LinkedIn Jobs | [Ver oferta](https://sv.linkedin.com/jobs/view/data-analyst-at-appdirect-4449746312) |
+| Consultor(a) Snr Data & AI Engineering | Deloitte | No indicada | San Salvador, El Salvador | No publicado | Hace 1 día | 2026-08-05 | LinkedIn Jobs | [Ver oferta](https://sv.linkedin.com/jobs/view/consultor-a-snr-data-ai-engineering-at-deloitte-4449669287) |
+| Power Platform IA y Microsoft Copilot | Deloitte | No indicada | San Salvador, El Salvador | No publicado | Hace 1 día | 2026-08-05 | LinkedIn Jobs | [Ver oferta](https://sv.linkedin.com/jobs/view/power-platform-ia-y-microsoft-copilot-at-deloitte-4449667946) |
+| AI, Data Annotation Specialist - El Salvador | TELUS Digital AI Data Solutions | No indicada | San Salvador, El Salvador | No publicado | Hace 2 días | 2026-08-04 | LinkedIn Jobs | [Ver oferta](https://sv.linkedin.com/jobs/view/ai-data-annotation-specialist-el-salvador-at-telus-digital-ai-data-solutions-4449027762) |
+| DBA | Syntepro S.A. de C.V. | No indicada | San Salvador, El Salvador | No publicado | Hace 6 días | 2026-07-31 | LinkedIn Jobs | [Ver oferta](https://sv.linkedin.com/jobs/view/dba-at-syntepro-s-a-de-c-v-4447252173) |
 
 ## 4. DevOps, cloud y ciberseguridad
 
 | Puesto | Empresa | Modalidad | Ubicación | Salario | Antigüedad | Fecha de publicación | Fuente | Enlace |
 |---|---|---|---|---|---|---|---|---|
-| SRE (Site Reliability Engineer) | Babel | No indicada | San Salvador, El Salvador | No publicado | Hoy | 2026-08-05 | LinkedIn Jobs | [Ver oferta](https://sv.linkedin.com/jobs/view/sre-site-reliability-engineer-at-babel-4449308290) |
-| Ingeniero de Seguridad Lógica | ABANK | Híbrido | La Libertad, El Salvador | No publicado | Hace 4 días | 2026-08-01 | Tecoloco | [Ver oferta](https://www.tecoloco.com.sv/1098181/analista-de-seguridad-informatica.aspx) |
-| Cloud Architect (GCP) | Applaudo | No indicada | San Salvador, El Salvador | No publicado | Hace 4 días | 2026-08-01 | LinkedIn Jobs | [Ver oferta](https://sv.linkedin.com/jobs/view/cloud-architect-gcp-at-applaudo-4439314974) |
+| SRE (Site Reliability Engineer) | Babel | No indicada | San Salvador, El Salvador | No publicado | Hace 1 día | 2026-08-05 | LinkedIn Jobs | [Ver oferta](https://sv.linkedin.com/jobs/view/sre-site-reliability-engineer-at-babel-4449308290) |
+| Ingeniero de Seguridad Lógica | ABANK | Híbrido | La Libertad, El Salvador | 500–600 USD; periodicidad no indicada | Hace 5 días | 2026-08-01 | Tecoloco | [Ver oferta](https://www.tecoloco.com.sv/1098181/analista-de-seguridad-informatica.aspx) |
+| Cloud Architect (GCP) | Applaudo | No indicada | San Salvador, El Salvador | No publicado | Hace 5 días | 2026-08-01 | LinkedIn Jobs | [Ver oferta](https://sv.linkedin.com/jobs/view/cloud-architect-gcp-at-applaudo-4439314974) |
 | DevOps Engineer | Stefanini LATAM | Remoto | El Salvador | No publicado | Hace 6 días | No disponible | LinkedIn Jobs | [Ver oferta](https://sv.linkedin.com/jobs/view/devops-engineer-100%25-remoto-pago-en-usd-at-stefanini-latam-4446938110) |
+| Cloud Architect Manager | RSM US-El Salvador | No indicada | San Salvador, El Salvador | No publicado | Hace 7 días | 2026-07-30 | LinkedIn Jobs | [Ver oferta](https://sv.linkedin.com/jobs/view/cloud-architect-manager-at-rsm-us-el-salvador-4387517875) |
 
 ## 5. Soporte, redes e infraestructura
 
 | Puesto | Empresa | Modalidad | Ubicación | Salario | Antigüedad | Fecha de publicación | Fuente | Enlace |
 |---|---|---|---|---|---|---|---|---|
-| Ingeniero Post Venta de Infraestructura Tecnológica | SPC Internacional | No indicada | San Salvador, El Salvador | No publicado | Hace 1 día | 2026-08-04 | LinkedIn Jobs | [Ver oferta](https://sv.linkedin.com/jobs/view/ingeniero-post-venta-de-infraestructura-tecnol%C3%B3gica-at-spc-internacional-4449068959) |
-| Soporte Técnico | GLC El Salvador | No indicada | San Salvador, El Salvador | No publicado | Hace 4 días | 2026-08-01 | Tecoloco | [Ver oferta](https://www.tecoloco.com.sv/1098154/soporte-tecnico.aspx) |
-| Application Support Engineer (L3) | Applaudo | No indicada | San Salvador, El Salvador | No publicado | Hace 6 días | 2026-07-30 | LinkedIn Jobs | [Ver oferta](https://sv.linkedin.com/jobs/view/application-support-engineer-l3-at-applaudo-4438230706) |
+| End User Support | Ubiquity | No indicada | San Salvador, El Salvador | No publicado | Hace 1 día | 2026-08-05 | LinkedIn Jobs | [Ver oferta](https://sv.linkedin.com/jobs/view/end-user-support-at-ubiquity-4449162628) |
+| IT Systems Administrator | GAC Enterprises, LLC | No indicada | San Salvador, El Salvador | 14,400–18,000 USD anuales | Hace 1 día | 2026-08-05 | LinkedIn Jobs | [Ver oferta](https://sv.linkedin.com/jobs/view/it-systems-administrator-at-gac-enterprises-llc-4449632884) |
+| Especialista de Soporte ERP (SAP Business One) - El Salvador | Sapiens Guatemala | No indicada | San Salvador, El Salvador | No publicado | Hace 2 días | 2026-08-04 | LinkedIn Jobs | [Ver oferta](https://sv.linkedin.com/jobs/view/especialista-de-soporte-erp-sap-business-one-%E2%80%93-el-salvador-at-sapiens-guatemala-4448593597) |
+| Soporte Técnico IT | D'CASA | No indicada | Santa Tecla, La Libertad, El Salvador | No publicado | Hace 2 días | 2026-08-04 | LinkedIn Jobs | [Ver oferta](https://sv.linkedin.com/jobs/view/soporte-t%C3%A9cnico-it-at-d%C2%B4casa-4449165140) |
+| Soporte Técnico | GLC El Salvador | No indicada | San Salvador, El Salvador | 410–425 USD; periodicidad no indicada | Hace 5 días | 2026-08-01 | Tecoloco | [Ver oferta](https://www.tecoloco.com.sv/1098154/soporte-tecnico.aspx) |
+| Application Support Engineer (L3) | Applaudo | No indicada | San Salvador, El Salvador | No publicado | Hace 7 días | 2026-07-30 | LinkedIn Jobs | [Ver oferta](https://sv.linkedin.com/jobs/view/application-support-engineer-l3-at-applaudo-4438230706) |
 
 ## 6. Producto, UX/UI y gestión tecnológica
 
 | Puesto | Empresa | Modalidad | Ubicación | Salario | Antigüedad | Fecha de publicación | Fuente | Enlace |
 |---|---|---|---|---|---|---|---|---|
-| Senior IT Project Manager | BairesDev | Remoto | El Salvador | No publicado | Hoy | No disponible | LinkedIn Jobs | [Ver oferta](https://sv.linkedin.com/jobs/view/senior-it-project-manager-remote-work-at-bairesdev-4449141156) |
-| Project Manager | Empresa confidencial | Híbrido | San Salvador, El Salvador | No publicado | Hoy | No disponible | Computrabajo | [Ver oferta](https://sv.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-project-manager-en-san-salvador-E6A894B04D5E1D0161373E686DCF3405) |
+| Technical Business Analyst - El Salvador | Deloitte | No indicada | San Salvador, El Salvador | No publicado | Hace 1 día | 2026-08-05 | LinkedIn Jobs | [Ver oferta](https://sv.linkedin.com/jobs/view/technical-business-analyst-el-salvador-at-deloitte-4449686193) |
+| Project Manager (IT) | BairesDev | Remoto | El Salvador | No publicado | Hace 1 día | No disponible | LinkedIn Jobs | [Ver oferta](https://sv.linkedin.com/jobs/view/project-manager-it-remote-work-at-bairesdev-4449144175) |
+| Technical Project Manager | BairesDev | Remoto | El Salvador | No publicado | Hace 1 día | No disponible | LinkedIn Jobs | [Ver oferta](https://sv.linkedin.com/jobs/view/technical-project-manager-remote-work-at-bairesdev-4449126861) |
+| AI Product Manager | Applaudo | No indicada | San Salvador, El Salvador | No publicado | Hace 1 día | 2026-08-05 | LinkedIn Jobs | [Ver oferta](https://sv.linkedin.com/jobs/view/ai-product-manager-at-applaudo-4440574034) |
+| Program Manager | Applaudo | No indicada | San Salvador, El Salvador | No publicado | Hace 2 días | 2026-08-04 | LinkedIn Jobs | [Ver oferta](https://sv.linkedin.com/jobs/view/program-manager-at-applaudo-4440573181) |
 
 ## Fuentes consultadas
 

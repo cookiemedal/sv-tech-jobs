@@ -1,6 +1,6 @@
 # Empleos Tech en El Salvador
 
-**Actualizado: 2026-08-06 07:09 (America/El_Salvador)**
+**Actualizado: 2026-08-06 10:52 (America/El_Salvador)**
 
 Ofertas tecnológicas verificadas como activas y disponibles para personas en El Salvador. Dentro de cada categoría se muestran primero las publicaciones más recientes. La modalidad y el salario se transcriben únicamente cuando la oferta los declara de forma explícita.
 
@@ -75,6 +75,18 @@ Ofertas tecnológicas verificadas como activas y disponibles para personas en El
 - Páginas individuales y portales oficiales de las empresas enlazadas en las ofertas.
 
 > Las ofertas pueden cambiar, cerrarse o vencer después de esta actualización. Verifica nuevamente los requisitos y la disponibilidad antes de postularte.
+
+## Hallazgos adicionales mediante sesión de LinkedIn
+
+Las siguientes ofertas se encontraron el 6 de agosto de 2026 usando una sesión autenticada de LinkedIn, con la ubicación de búsqueda configurada en **El Salvador**. Las páginas individuales seguían accesibles al momento de la revisión y no estaban repetidas en la lista anterior.
+
+| Puesto | Empresa | Modalidad | Ubicación mostrada | Salario | Antigüedad | Fecha de publicación | Fuente | Enlace |
+|---|---|---|---|---|---|---|---|---|
+| Vibe Coder | Remote Leverage | Remoto | América Latina; disponible en búsqueda desde El Salvador | No publicado | Hoy | 2026-08-06 | LinkedIn Jobs (sesión autenticada) | [Ver oferta](https://www.linkedin.com/jobs/view/4448609478/) |
+| Senior Python Developer - AI | Fast Dolphin | Remoto | América Latina; disponible en búsqueda desde El Salvador | No publicado | Hoy | 2026-08-06 | LinkedIn Jobs (sesión autenticada) | [Ver oferta](https://www.linkedin.com/jobs/view/4450285685/) |
+| Full Stack Developer - Shopify | Right Balance | Remoto | América Latina; disponible en búsqueda desde El Salvador | No publicado | Hoy | 2026-08-06 | LinkedIn Jobs (sesión autenticada) | [Ver oferta](https://www.linkedin.com/jobs/view/4446156379/) |
+| Full Stack Developer | Remote Leverage | Remoto | América Latina; disponible en búsqueda desde El Salvador | No publicado | Hoy | 2026-08-06 | LinkedIn Jobs (sesión autenticada) | [Ver oferta](https://www.linkedin.com/jobs/view/4448602375/) |
+| Azure Databricks Data Engineer | Elios AI | Remoto | América Latina; disponible en búsqueda desde El Salvador | No publicado | Hoy | 2026-08-06 | LinkedIn Jobs (sesión autenticada) | [Ver oferta](https://www.linkedin.com/jobs/view/4449749888/) |
 
 ---
 

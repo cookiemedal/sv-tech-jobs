@@ -3,14 +3,22 @@ const $=s=>document.querySelector(s);
 const clean=s=>s.replace(/\*\*/g,"").replace(/\[([^\]]+)\]\([^)]*\)/g,"$1").trim();
 function parseMarkdown(md){
   const updated=(md.match(/\*\*Actualizado:\s*([^*]+)\*\*/)||[])[1]||"";
-  const jobs=[]; let category="";
+  const jobs=[]; let category=""; let current=null;
+  const save=()=>{if(current?.link&&!jobs.some(j=>j.link===current.link))jobs.push(current);current=null};
   for(const line of md.split("\n")){
-    const h=line.match(/^##\s+(?:\d+\.\s*)?(.+)/); if(h){category=clean(h[1]);continue}
-    if(!line.startsWith("|")||line.includes("|---")||line.includes("| Puesto |"))continue;
-    const cells=line.split("|").slice(1,-1).map(clean); if(cells.length<9)continue;
-    const link=(line.match(/\[Ver oferta\]\((https?:\/\/[^)]+)\)/)||[])[1]; if(!link)continue;
-    jobs.push({title:cells[0],company:cells[1],modality:cells[2],location:cells[3],salary:cells[4],age:cells[5],date:cells[6],source:cells[7],link,category});
+    const h2=line.match(/^##\s+(?:\d+\.\s*)?(.+)/);if(h2){save();category=clean(h2[1]);continue}
+    const h3=line.match(/^###\s+(.+?)(?:\s+[—–]\s+)(.+)$/);if(h3){save();current={title:clean(h3[1]),company:clean(h3[2]),category};continue}
+    if(!current)continue;
+    const field=line.match(/^-\s+\*\*([^:]+):\*\*\s*(.+)/);if(!field)continue;
+    const key=field[1].toLowerCase(),value=clean(field[2]);
+    if(key.includes("modalidad"))current.modality=value;
+    else if(key.includes("ubicación"))current.location=value;
+    else if(key.includes("salario"))current.salary=value;
+    else if(key.includes("publicación"))current.age=value;
+    else if(key.includes("fuente"))current.source=value;
+    else if(key.includes("enlace"))current.link=(field[2].match(/\((https?:\/\/[^)]+)\)/)||[])[1];
   }
+  save();
   return {jobs,updated};
 }
 function optionize(id,values){const el=$(id);[...new Set(values)].sort().forEach(v=>{const o=document.createElement("option");o.value=o.textContent=v;el.append(o)})}

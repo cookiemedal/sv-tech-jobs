@@ -1,834 +1,508 @@
 # Empleos Tech en El Salvador
 
-**Actualizado: 2026-08-11 07:33 (America/El_Salvador)**
+Actualizado: 2026-08-11 12:35 (America/El_Salvador)
 
-Ofertas tecnológicas verificadas individualmente como activas y disponibles para personas en El Salvador. La modalidad y el salario se muestran únicamente cuando la publicación los indica de forma explícita.
+Vacantes activas verificadas: **48**
 
-## 1. Desarrollo de software
+## Desarrollo de software
 
-### Web Master — GALVANISSA
+### Analista programador/a java — ARCH LATAM
+
+- **Modalidad:** No indicada
+- **Ubicación:** San Salvador, San Salvador
+- **Salario:** 1,500.00 US$ (Mensual)
+- **Antigüedad:** Hace 5 horas
+- **Fecha:** 2026-08-11
+- **Fuente:** Computrabajo El Salvador
+- **Enlace:** [Ver oferta y aplicar](https://sv.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-programadora-java-en-san-salvador-3D66545227E0A0C361373E686DCF3405)
+
+### Analista Programador — INTERPA
+
+- **Modalidad:** No indicada
+- **Ubicación:** San Salvador, San Salvador
+- **Salario:** 800.00 US$ (Mensual)
+- **Antigüedad:** Hace 21 horas
+- **Fecha:** 2026-08-11
+- **Fuente:** Computrabajo El Salvador
+- **Enlace:** [Ver oferta y aplicar](https://sv.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-programador-en-san-salvador-ED469188329F47F561373E686DCF3405)
+
+### Analista desarrollador Back End Jr. — Autofacil, S.A de C.V
 
 - **Modalidad:** No indicada
 - **Ubicación:** San Salvador, San Salvador
 - **Salario:** No publicado
-- **Publicación:** Hoy — 2026-08-11
+- **Antigüedad:** Hace 8 horas
+- **Fecha:** 2026-08-11
 - **Fuente:** Computrabajo El Salvador
-- **Enlace:** [Ver oferta](https://sv.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-web-master-en-san-salvador-7DF7AAD1BD39814261373E686DCF3405)
+- **Enlace:** [Ver oferta y aplicar](https://sv.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-desarrollador-back-end-jr-en-san-salvador-DD04757F7C16AC2761373E686DCF3405)
 
-### Desarrollador JAVA — NOVACOMP EL SALVADOR, S.A. de C.V.
+### Desarrollador Senior — Latin Top Jobs
 
-- **Modalidad:** Híbrido
-- **Ubicación:** San Salvador, San Salvador
-- **Salario:** No publicado
-- **Publicación:** Hoy — 2026-08-11
+- **Modalidad:** No indicada
+- **Ubicación:** Antiguo Cuscatlán, La Libertad
+- **Salario:** 1,500.00 US$ (Mensual)
+- **Antigüedad:** Ayer
+- **Fecha:** 2026-08-10
 - **Fuente:** Computrabajo El Salvador
-- **Enlace:** [Ver oferta](https://sv.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrollador-java-en-san-salvador-5EDF56E38E463E4661373E686DCF3405)
+- **Enlace:** [Ver oferta y aplicar](https://sv.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrollador-senior-banca-en-antiguo-cuscatlan-D48C7251A205264F61373E686DCF3405)
 
-### Analista programador/a Java — ARCH LATAM
-
-- **Modalidad:** Remoto
-- **Ubicación:** San Salvador, San Salvador
-- **Salario:** USD 1,500 mensuales
-- **Publicación:** Hoy — 2026-08-11
-- **Fuente:** Computrabajo El Salvador
-- **Enlace:** [Ver oferta](https://sv.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-programadora-java-en-san-salvador-332A1815821C771861373E686DCF3405)
-
-### Desarrollador Angular - Trabajo Remoto — BairesDev
-
-- **Modalidad:** Remoto
-- **Ubicación:** El Salvador
-- **Salario:** No publicado
-- **Publicación:** Hace 1 día — 2026-08-10
-- **Fuente:** LinkedIn Jobs
-- **Enlace:** [Ver oferta](https://sv.linkedin.com/jobs/view/4451410288)
-
-### Senior Flask+React Fullstack Developer - Remote, Latin America — Bluelight
-
-- **Modalidad:** Remoto
-- **Ubicación:** San Salvador, San Salvador, El Salvador
-- **Salario:** No publicado
-- **Publicación:** Hace 1 día — 2026-08-10
-- **Fuente:** LinkedIn Jobs
-- **Enlace:** [Ver oferta](https://sv.linkedin.com/jobs/view/4451852454)
-
-### Desarrollador .NET — OE Internacional
-
-- **Modalidad:** No indicada
-- **Ubicación:** San Salvador, El Salvador
-- **Salario:** No publicado
-- **Publicación:** Hace 1 día — 2026-08-10
-- **Fuente:** Tecoloco El Salvador
-- **Enlace:** [Ver oferta](https://www.tecoloco.com.sv/1099713/analista-programador.aspx)
-
-### Programador de Core Bancario — FEDECREDITO
-
-- **Modalidad:** No indicada
-- **Ubicación:** San Salvador, El Salvador
-- **Salario:** No publicado
-- **Publicación:** Hace 1 día — 2026-08-10
-- **Fuente:** Tecoloco El Salvador
-- **Enlace:** [Ver oferta](https://www.tecoloco.com.sv/1099672/analista-programador.aspx)
-
-### Senior Full Stack Developer (React & Node.js) — Applaudo
-
-- **Modalidad:** No indicada
-- **Ubicación:** San Salvador, El Salvador
-- **Salario:** No publicado
-- **Publicación:** Hace 3 días — 2026-08-08
-- **Fuente:** LinkedIn Jobs
-- **Enlace:** [Ver oferta](https://sv.linkedin.com/jobs/view/4451015926)
-
-### AI Product Engineer, Manufacturing/Logistics Systems — Koin Limited
-
-- **Modalidad:** No indicada
-- **Ubicación:** El Salvador
-- **Salario:** USD 40,000–48,000 anuales
-- **Publicación:** Hace 4 días — 2026-08-07
-- **Fuente:** LinkedIn Jobs
-- **Enlace:** [Ver oferta](https://sv.linkedin.com/jobs/view/4449217662)
-
-### AI Product Engineer, Finance Systems — Koin Limited
-
-- **Modalidad:** No indicada
-- **Ubicación:** El Salvador
-- **Salario:** USD 40,000–48,000 anuales
-- **Publicación:** Hace 4 días — 2026-08-07
-- **Fuente:** LinkedIn Jobs
-- **Enlace:** [Ver oferta](https://sv.linkedin.com/jobs/view/4449227311)
-
-### Arquitecto de Software con experiencia Cloud Native en AWS — Empresa confidencial
-
-- **Modalidad:** No indicada
-- **Ubicación:** San Salvador, El Salvador
-- **Salario:** No publicado
-- **Publicación:** Hace 4 días — 2026-08-07
-- **Fuente:** Tecoloco El Salvador
-- **Enlace:** [Ver oferta](https://www.tecoloco.com.sv/1099274/arquitecto-de-software.aspx)
-
-### Full-Stack Software Engineer — Veta Virtual
-
-- **Modalidad:** Remoto
-- **Ubicación:** El Salvador
-- **Salario:** No publicado
-- **Publicación:** Hace 5 días — 2026-08-06
-- **Fuente:** LinkedIn Jobs
-- **Enlace:** [Ver oferta](https://sv.linkedin.com/jobs/view/4448476133)
-
-### Power Platform Developer & AI — Deloitte
-
-- **Modalidad:** No indicada
-- **Ubicación:** San Salvador, El Salvador
-- **Salario:** No publicado
-- **Publicación:** Hace 6 días — 2026-08-05
-- **Fuente:** LinkedIn Jobs
-- **Enlace:** [Ver oferta](https://sv.linkedin.com/jobs/view/4449667946)
-
-### Dotnet Developer — The Functionary
-
-- **Modalidad:** No indicada
-- **Ubicación:** San Salvador, El Salvador
-- **Salario:** No publicado
-- **Publicación:** Hace 6 días — 2026-08-05
-- **Fuente:** LinkedIn Jobs
-- **Enlace:** [Ver oferta](https://sv.linkedin.com/jobs/view/4449669971)
-
-### iOS Developer — Applaudo
-
-- **Modalidad:** No indicada
-- **Ubicación:** San Salvador, El Salvador
-- **Salario:** No publicado
-- **Publicación:** Hace 8 días — 2026-08-03
-- **Fuente:** LinkedIn Jobs
-- **Enlace:** [Ver oferta](https://sv.linkedin.com/jobs/view/4448609785)
-
-### Android Developer — Applaudo
-
-- **Modalidad:** No indicada
-- **Ubicación:** San Salvador, El Salvador
-- **Salario:** No publicado
-- **Publicación:** Hace 8 días — 2026-08-03
-- **Fuente:** LinkedIn Jobs
-- **Enlace:** [Ver oferta](https://sv.linkedin.com/jobs/view/4448617367)
-
-### Senior Full Stack Engineer (Node/Python) — Applaudo
-
-- **Modalidad:** No indicada
-- **Ubicación:** San Salvador, El Salvador
-- **Salario:** No publicado
-- **Publicación:** Hace 1 semana
-- **Fuente:** LinkedIn Jobs
-- **Enlace:** [Ver oferta](https://sv.linkedin.com/jobs/view/4410210073)
-
-### Fullstack Junior — Deloitte
-
-- **Modalidad:** No indicada
-- **Ubicación:** San Salvador, El Salvador
-- **Salario:** No publicado
-- **Publicación:** Hace 2 semanas
-- **Fuente:** LinkedIn Jobs
-- **Enlace:** [Ver oferta](https://sv.linkedin.com/jobs/view/4443075130)
-
-### Programador de Desarrollo de Canales Electrónicos — FEDECREDITO
-
-- **Modalidad:** No indicada
-- **Ubicación:** San Salvador, El Salvador
-- **Salario:** No publicado
-- **Publicación:** Hace 22 días — 2026-07-20
-- **Fuente:** Tecoloco El Salvador
-- **Enlace:** [Ver oferta](https://www.tecoloco.com.sv/1094628/analista-programador.aspx)
-
-### Desarrollador Java — OE Internacional
-
-- **Modalidad:** No indicada
-- **Ubicación:** San Salvador, El Salvador
-- **Salario:** No publicado
-- **Publicación:** Hace 24 días — 2026-07-18
-- **Fuente:** Tecoloco El Salvador
-- **Enlace:** [Ver oferta](https://www.tecoloco.com.sv/1094227/analista-programador.aspx)
-
-### Analista Programador Oracle PLSQL — Optima Consultores
-
-- **Modalidad:** Híbrido
-- **Ubicación:** San Salvador, El Salvador
-- **Salario:** USD 1,000–1,300; periodicidad no indicada
-- **Publicación:** Hace 26 días — 2026-07-16
-- **Fuente:** Tecoloco El Salvador
-- **Enlace:** [Ver oferta](https://www.tecoloco.com.sv/1093698/analista-programador.aspx)
-
-### Analista Programador — GLC El Salvador
-
-- **Modalidad:** No indicada
-- **Ubicación:** San Salvador, El Salvador
-- **Salario:** USD 550–750; periodicidad no indicada
-- **Publicación:** Hace 28 días — 2026-07-14
-- **Fuente:** Tecoloco El Salvador
-- **Enlace:** [Ver oferta](https://www.tecoloco.com.sv/1093318/analista-programador.aspx)
-
-### Analista de Sistemas Java Full Stack, proyecto de 1 año — Empresa confidencial
-
-- **Modalidad:** No indicada
-- **Ubicación:** San Salvador, El Salvador
-- **Salario:** No publicado
-- **Publicación:** Hace 29 días — 2026-07-13
-- **Fuente:** Tecoloco El Salvador
-- **Enlace:** [Ver oferta](https://www.tecoloco.com.sv/1093020/analista-de-sistemas.aspx)
-
-### Ingeniero Software Junior AI y Cloud — Empresa confidencial
-
-- **Modalidad:** No indicada
-- **Ubicación:** San Salvador, El Salvador
-- **Salario:** No publicado
-- **Publicación:** Hace 32 días — 2026-07-10
-- **Fuente:** Tecoloco El Salvador
-- **Enlace:** [Ver oferta](https://www.tecoloco.com.sv/1092385/analista-de-sistemas.aspx)
-
-### Analista de Sistemas — Grupo Ferromax Galvanissa
-
-- **Modalidad:** No indicada
-- **Ubicación:** San Salvador, El Salvador
-- **Salario:** No publicado
-- **Publicación:** Hace 32 días — 2026-07-10
-- **Fuente:** Tecoloco El Salvador
-- **Enlace:** [Ver oferta](https://www.tecoloco.com.sv/1092439/analista-de-sistemas.aspx)
-
-### Desarrollador de Sistemas — Tecoloco
-
-- **Modalidad:** No indicada
-- **Ubicación:** San Salvador, El Salvador
-- **Salario:** USD 2,000–3,000; periodicidad no indicada
-- **Publicación:** Hace 40 días — 2026-07-02
-- **Fuente:** Tecoloco El Salvador
-- **Enlace:** [Ver oferta](https://www.tecoloco.com.sv/1090211/jefe-de-desarrollo-de-software-jefe-de-programacion.aspx)
-
-### Full Stack Developer Java Spring Boot - React — Empresa confidencial
-
-## 2. QA y testing
-
-### Tester QA - Para Institución Financiera — HUMAN RESOURCES COMPANY S.A. DE C.V.
+### Desarrollador Java Broker — OE INTERNACIONAL
 
 - **Modalidad:** No indicada
 - **Ubicación:** San Salvador, San Salvador
-- **Salario:** USD 900 mensuales
-- **Publicación:** Hoy — 2026-08-11
+- **Salario:** No publicado
+- **Antigüedad:** Ayer
+- **Fecha:** 2026-08-10
 - **Fuente:** Computrabajo El Salvador
-- **Enlace:** [Ver oferta](https://sv.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-tester-qa-para-institucion-financiera-en-san-salvador-8C633CAB20E9CA3161373E686DCF3405)
+- **Enlace:** [Ver oferta y aplicar](https://sv.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrollador-java-broker-en-san-salvador-D29062797C2EAC0461373E686DCF3405)
 
-### QA Engineer — NOVACOMP EL SALVADOR, S.A. de C.V.
-
-- **Modalidad:** Híbrido
-- **Ubicación:** San Salvador, San Salvador
-- **Salario:** No publicado
-- **Publicación:** Hoy — 2026-08-11
-- **Fuente:** Computrabajo El Salvador
-- **Enlace:** [Ver oferta](https://sv.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-qa-engineer-en-san-salvador-3FEB6A8172B4B09361373E686DCF3405)
-
-### QA Engineer — Datalysis Group
-
-- **Modalidad:** Remoto
-- **Ubicación:** El Salvador
-- **Salario:** No publicado
-- **Publicación:** Hace 1 día — 2026-08-10
-- **Fuente:** LinkedIn Jobs
-- **Enlace:** [Ver oferta](https://sv.linkedin.com/jobs/view/4451823955)
-
-### QA Engineer – Agentes Conversacionales — Gostrategy - Atracción de talento
-
-- **Modalidad:** Híbrido
-- **Ubicación:** La Libertad, La Libertad, El Salvador
-- **Salario:** No publicado
-- **Publicación:** Hace 1 día — 2026-08-10
-- **Fuente:** LinkedIn Jobs
-- **Enlace:** [Ver oferta](https://sv.linkedin.com/jobs/view/4451425830)
-
-### Analista QA Manual — Tecnologías Innovadoras
-
-- **Modalidad:** No indicada
-- **Ubicación:** San Salvador, San Salvador, El Salvador
-- **Salario:** No publicado
-- **Publicación:** Hace 1 día — 2026-08-10
-- **Fuente:** LinkedIn Jobs
-- **Enlace:** [Ver oferta](https://sv.linkedin.com/jobs/view/4451452800)
-
-### Quality Assurance Engineer Senior — RSM US-El Salvador
-
-- **Modalidad:** No indicada
-- **Ubicación:** San Salvador, San Salvador, El Salvador
-- **Salario:** No publicado
-- **Publicación:** Hace 6 días — 2026-08-05
-- **Fuente:** LinkedIn Jobs
-- **Enlace:** [Ver oferta](https://sv.linkedin.com/jobs/view/4430384280)
-
-### QA Automation Engineer — Babel
-
-- **Modalidad:** No indicada
-- **Ubicación:** San Salvador, San Salvador, El Salvador
-- **Salario:** No publicado
-- **Publicación:** Hace 7 días — 2026-08-04
-- **Fuente:** LinkedIn Jobs
-- **Enlace:** [Ver oferta](https://sv.linkedin.com/jobs/view/4448695724)
-
-### Analista QA — Acceso Financiero
+### Desarrollador Oracle APEX — NOVACOMP EL SALVADOR, S.A. de CV
 
 - **Modalidad:** No indicada
 - **Ubicación:** San Salvador, San Salvador
-- **Salario:** USD 700 mensuales
-- **Publicación:** Hace 6 días (actualizada)
-- **Fuente:** Computrabajo El Salvador
-- **Enlace:** [Ver oferta](https://sv.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-qa-en-san-salvador-b66d3ba09f8598a961373e686dcf3405)
-
-### Tester QA — OE Internacional
-
-- **Modalidad:** No indicada
-- **Ubicación:** San Salvador, El Salvador
 - **Salario:** No publicado
-- **Publicación:** Hace 27 días — 2026-07-15
-- **Fuente:** Tecoloco El Salvador
-- **Enlace:** [Ver oferta](https://www.tecoloco.com.sv/1093596/analista-programador.aspx)
+- **Antigüedad:** Hace 2 días
+- **Fecha:** 2026-08-09
+- **Fuente:** Computrabajo El Salvador
+- **Enlace:** [Ver oferta y aplicar](https://sv.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrollador-oracle-apex-en-san-salvador-25B3A4B7D3B5FE3761373E686DCF3405)
 
-### Analista QA — OE Internacional
-
-## 3. Datos e inteligencia artificial
-
-### Administrador de Base de Datos — T-CONTRATO
+### Desarrollador C# — OE INTERNACIONAL
 
 - **Modalidad:** No indicada
 - **Ubicación:** San Salvador, San Salvador
-- **Salario:** USD 2,150 mensuales
-- **Publicación:** Hoy — 2026-08-11
+- **Salario:** 1,070.00 US$ (Mensual)
+- **Antigüedad:** Hace 2 días
+- **Fecha:** 2026-08-09
 - **Fuente:** Computrabajo El Salvador
-- **Enlace:** [Ver oferta](https://sv.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-administrador-de-base-de-datos-en-san-salvador-2E44035CBEFA765461373E686DCF3405)
+- **Enlace:** [Ver oferta y aplicar](https://sv.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrollador-c-en-san-salvador-7C7E912A62F8A3EC61373E686DCF3405)
 
-### Data Visualization Analyst — Grupo Unicomer / Unicomer Group
-
-- **Modalidad:** Híbrido
-- **Ubicación:** San Salvador, El Salvador
-- **Salario:** No publicado
-- **Publicación:** Hace 1 día — 2026-08-10
-- **Fuente:** LinkedIn Jobs
-- **Enlace:** [Ver oferta](https://sv.linkedin.com/jobs/view/4452043131)
-
-### Analista de Sistemas y Reportería — Grupo Ferromax Galvanissa
+### Desarrollador RPA Senior — S&H SUPPORT
 
 - **Modalidad:** No indicada
-- **Ubicación:** San Salvador, El Salvador
+- **Ubicación:** Antiguo Cuscatlán, La Libertad
 - **Salario:** No publicado
-- **Publicación:** Hace 1 día — 2026-08-10
-- **Fuente:** Tecoloco El Salvador
-- **Enlace:** [Ver oferta](https://www.tecoloco.com.sv/1099775/ingeniero-en-sistemas.aspx)
+- **Antigüedad:** Hace 3 días
+- **Fecha:** 2026-08-08
+- **Fuente:** Computrabajo El Salvador
+- **Enlace:** [Ver oferta y aplicar](https://sv.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrollador-rpa-senior-en-antiguo-cuscatlan-A51ABD15A144788661373E686DCF3405)
 
-### Data & AI Architect — WOT Dev
+### Desarrollador Oracle — OE INTERNACIONAL
+
+- **Modalidad:** No indicada
+- **Ubicación:** San Salvador, San Salvador
+- **Salario:** No publicado
+- **Antigüedad:** Hace 3 días
+- **Fecha:** 2026-08-08
+- **Fuente:** Computrabajo El Salvador
+- **Enlace:** [Ver oferta y aplicar](https://sv.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrollador-oracle-plaza-remota-en-san-salvador-310EB2B9A473341561373E686DCF3405)
+
+### Desarrollador .Net — S&H SUPPORT
+
+- **Modalidad:** No indicada
+- **Ubicación:** Antiguo Cuscatlán, La Libertad
+- **Salario:** No publicado
+- **Antigüedad:** Hace 3 días
+- **Fecha:** 2026-08-08
+- **Fuente:** Computrabajo El Salvador
+- **Enlace:** [Ver oferta y aplicar](https://sv.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrollador-net-en-antiguo-cuscatlan-970222819434D50F61373E686DCF3405)
+
+### Fullstack Developer — Empresa no indicada
+
+- **Modalidad:** No indicada
+- **Ubicación:** Importante empresa del sector San Salvador, San Salvador
+- **Salario:** No publicado
+- **Antigüedad:** Hace 4 días
+- **Fecha:** 2026-08-07
+- **Fuente:** Computrabajo El Salvador
+- **Enlace:** [Ver oferta y aplicar](https://sv.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-fullstack-developer-en-san-salvador-BC7E7A000AD05DCA61373E686DCF3405)
+
+### Desarrollador Java — OE INTERNACIONAL
+
+- **Modalidad:** No indicada
+- **Ubicación:** San Salvador, San Salvador
+- **Salario:** No publicado
+- **Antigüedad:** Hace 4 días
+- **Fecha:** 2026-08-07
+- **Fuente:** Computrabajo El Salvador
+- **Enlace:** [Ver oferta y aplicar](https://sv.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrollador-java-en-san-salvador-9145651610009EFC61373E686DCF3405)
+
+### Desarrollador JAVA — NOVACOMP EL SALVADOR, S.A. de CV
+
+- **Modalidad:** No indicada
+- **Ubicación:** San Salvador, San Salvador
+- **Salario:** No publicado
+- **Antigüedad:** Hace 4 días
+- **Fecha:** 2026-08-07
+- **Fuente:** Computrabajo El Salvador
+- **Enlace:** [Ver oferta y aplicar](https://sv.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrollador-java-en-san-salvador-E9CCD0407F71C8F361373E686DCF3405)
+
+### Desarrollador JAVA — Empresa no indicada
+
+- **Modalidad:** No indicada
+- **Ubicación:** Importante Institución Financiera San Salvador, San Salvador
+- **Salario:** No publicado
+- **Antigüedad:** Hace 7 días
+- **Fecha:** 2026-08-04
+- **Fuente:** Computrabajo El Salvador
+- **Enlace:** [Ver oferta y aplicar](https://sv.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrollador-java-en-san-salvador-A91369C02627B6A461373E686DCF3405)
+
+### Programador y Desarrollador de Soluciones — INNOVA NEGOCIOS
+
+- **Modalidad:** No indicada
+- **Ubicación:** San Salvador, San Salvador
+- **Salario:** 800.00 US$ (Mensual)
+- **Antigüedad:** No indicada
+- **Fecha:** No disponible
+- **Fuente:** Computrabajo El Salvador
+- **Enlace:** [Ver oferta y aplicar](https://sv.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-programador-y-desarrollador-de-soluciones-junior-en-san-salvador-09D2654D02A949B561373E686DCF3405)
+
+### Programador Analista — Universidad Francisco Gavidia
+
+- **Modalidad:** No indicada
+- **Ubicación:** San Salvador, San Salvador
+- **Salario:** No publicado
+- **Antigüedad:** No indicada
+- **Fecha:** No disponible
+- **Fuente:** Computrabajo El Salvador
+- **Enlace:** [Ver oferta y aplicar](https://sv.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-programador-analista-en-san-salvador-674FCFF91AA7BE7461373E686DCF3405)
+
+### Desarrollador java broker — Empresa no indicada
 
 - **Modalidad:** No indicada
 - **Ubicación:** El Salvador
 - **Salario:** No publicado
-- **Publicación:** Hace 1 día — 2026-08-10
-- **Fuente:** LinkedIn Jobs
-- **Enlace:** [Ver oferta](https://sv.linkedin.com/jobs/view/4451507201)
+- **Antigüedad:** No indicada
+- **Fecha:** No disponible
+- **Fuente:** Tecoloco El Salvador
+- **Enlace:** [Ver oferta y aplicar](https://www.tecoloco.com.sv/1099660/analista-programador.aspx)
 
-### AI Inference Engineer — WOT Dev
+### Desarrollador java — Empresa no indicada
 
 - **Modalidad:** No indicada
 - **Ubicación:** El Salvador
 - **Salario:** No publicado
-- **Publicación:** Hace 1 día — 2026-08-10
-- **Fuente:** LinkedIn Jobs
-- **Enlace:** [Ver oferta](https://sv.linkedin.com/jobs/view/4451390905)
+- **Antigüedad:** No indicada
+- **Fecha:** No disponible
+- **Fuente:** Tecoloco El Salvador
+- **Enlace:** [Ver oferta y aplicar](https://www.tecoloco.com.sv/1098407/analista-programador.aspx)
 
-### Administrador de Base de Datos — NOVACOMP EL SALVADOR, S.A. de C.V.
-
-- **Modalidad:** Híbrido
-- **Ubicación:** San Salvador, San Salvador
-- **Salario:** No publicado
-- **Publicación:** Hace 2 días (actualizada)
-- **Fuente:** Computrabajo El Salvador
-- **Enlace:** [Ver oferta](https://sv.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-administrador-de-base-de-datos-en-san-salvador-0aa20b7196d2d89761373e686dcf3405)
-
-### Data Scientist — Applaudo
-
-- **Modalidad:** No indicada
-- **Ubicación:** San Salvador, El Salvador
-- **Salario:** No publicado
-- **Publicación:** Hace 3 días — 2026-08-08
-- **Fuente:** LinkedIn Jobs
-- **Enlace:** [Ver oferta](https://sv.linkedin.com/jobs/view/4451024311)
-
-### Analista Base de Datos - Temporal — ARCH LATAM
+### Desarrollador .NET — OE INTERNACIONAL
 
 - **Modalidad:** No indicada
 - **Ubicación:** San Salvador, San Salvador
 - **Salario:** No publicado
-- **Publicación:** Hace 3 días (actualizada)
+- **Antigüedad:** No indicada
+- **Fecha:** No disponible
 - **Fuente:** Computrabajo El Salvador
-- **Enlace:** [Ver oferta](https://sv.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-base-de-datos-temporal-en-san-salvador-C3BA6AA930222CF561373E686DCF3405)
+- **Enlace:** [Ver oferta y aplicar](https://sv.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrollador-net-temporal-en-san-salvador-924995DA027C6DB761373E686DCF3405)
 
-### Enterprise Data Integration & Migration, Sr Developer — RSM US-El Salvador
-
-- **Modalidad:** No indicada
-- **Ubicación:** San Salvador, El Salvador
-- **Salario:** No publicado
-- **Publicación:** Hace 3 días — 2026-08-08
-- **Fuente:** LinkedIn Jobs
-- **Enlace:** [Ver oferta](https://sv.linkedin.com/jobs/view/4441726424)
-
-### Consultor Data & AI — Deloitte
+### Desarrollador .net — Empresa no indicada
 
 - **Modalidad:** No indicada
-- **Ubicación:** San Salvador, El Salvador
+- **Ubicación:** El Salvador
 - **Salario:** No publicado
-- **Publicación:** Hace 5 días — 2026-08-06
-- **Fuente:** LinkedIn Jobs
-- **Enlace:** [Ver oferta](https://sv.linkedin.com/jobs/view/4449669287)
-
-### Ingeniero de Datos — Optima Consultores S.A. de C.V.
-
-- **Modalidad:** No indicada
-- **Ubicación:** San Salvador, El Salvador
-- **Salario:** No publicado
-- **Publicación:** Hace 4 días — 2026-08-07
+- **Antigüedad:** No indicada
+- **Fecha:** No disponible
 - **Fuente:** Tecoloco El Salvador
-- **Enlace:** [Ver oferta](https://www.tecoloco.com.sv/1099351/analista-de-base-de-datos.aspx)
+- **Enlace:** [Ver oferta y aplicar](https://www.tecoloco.com.sv/1099713/analista-programador.aspx)
 
-### Analista de Datos Call Center — Empresa confidencial
+### Desarrollador — OE INTERNACIONAL
 
 - **Modalidad:** No indicada
-- **Ubicación:** San Salvador, El Salvador
-- **Salario:** No publicado
-- **Publicación:** Hace 22 días — 2026-07-20
-- **Fuente:** Tecoloco El Salvador
-- **Enlace:** [Ver oferta](https://www.tecoloco.com.sv/1094480/analista-de-inteligencia-de-negocios.aspx)
+- **Ubicación:** San Salvador, San Salvador
+- **Salario:** 1,500.00 US$ (Mensual)
+- **Antigüedad:** No indicada
+- **Fecha:** No disponible
+- **Fuente:** Computrabajo El Salvador
+- **Enlace:** [Ver oferta y aplicar](https://sv.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrollador-en-san-salvador-B1B4AEA53B0D79CA61373E686DCF3405)
 
-### Administrador de Bases de Datos (Nejapa) — CONSTRU SERVICES S.A
+### Analista Programador JAVA Spring y BD Oracle — Industrias Consolidadas S.A de C.V
+
+- **Modalidad:** No indicada
+- **Ubicación:** Soyapango, San Salvador
+- **Salario:** No publicado
+- **Antigüedad:** No indicada
+- **Fecha:** No disponible
+- **Fuente:** Computrabajo El Salvador
+- **Enlace:** [Ver oferta y aplicar](https://sv.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-programador-java-spring-y-bd-oracle-en-soyapango-EB9047CEC6094E2361373E686DCF3405)
+
+## QA y testing
+
+### Analista QA — Fintech
+
+- **Modalidad:** No indicada
+- **Ubicación:** San Salvador, San Salvador
+- **Salario:** 1,300.00 US$ (Mensual)
+- **Antigüedad:** Hace 7 horas
+- **Fecha:** 2026-08-11
+- **Fuente:** Computrabajo El Salvador
+- **Enlace:** [Ver oferta y aplicar](https://sv.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-qa-800-am-a-500-pm-en-san-salvador-E84A71DC3DCF2D4661373E686DCF3405)
+
+### QA Engineer — NOVACOMP EL SALVADOR, S.A. de CV
+
+- **Modalidad:** No indicada
+- **Ubicación:** San Salvador, San Salvador
+- **Salario:** No publicado
+- **Antigüedad:** Hace 4 días
+- **Fecha:** 2026-08-07
+- **Fuente:** Computrabajo El Salvador
+- **Enlace:** [Ver oferta y aplicar](https://sv.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-qa-engineer-en-san-salvador-6A6ED15735E41C5C61373E686DCF3405)
+
+### Tester QA — HUMAN RESOURCES COMPANY S.A DE C.V
+
+- **Modalidad:** No indicada
+- **Ubicación:** San Salvador, San Salvador
+- **Salario:** 499.00 US$ (Mensual)
+- **Antigüedad:** Hace 6 días
+- **Fecha:** 2026-08-05
+- **Fuente:** Computrabajo El Salvador
+- **Enlace:** [Ver oferta y aplicar](https://sv.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-tester-qa-temporal-para-institucion-financiera-en-san-salvador-3C5A46C454FC95C461373E686DCF3405)
+
+### Tester QA — OE INTERNACIONAL
+
+- **Modalidad:** No indicada
+- **Ubicación:** San Salvador, San Salvador
+- **Salario:** No publicado
+- **Antigüedad:** No indicada
+- **Fecha:** No disponible
+- **Fuente:** Computrabajo El Salvador
+- **Enlace:** [Ver oferta y aplicar](https://sv.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-tester-qa-en-san-salvador-D8ACF5912E59A22361373E686DCF3405)
+
+### Analista qa automatizador — Empresa no indicada
+
+- **Modalidad:** No indicada
+- **Ubicación:** El Salvador
+- **Salario:** No publicado
+- **Antigüedad:** No indicada
+- **Fecha:** No disponible
+- **Fuente:** Tecoloco El Salvador
+- **Enlace:** [Ver oferta y aplicar](https://www.tecoloco.com.sv/1098418/analista-de-control-de-calidad.aspx)
+
+### Analista QA — OE INTERNACIONAL
+
+- **Modalidad:** No indicada
+- **Ubicación:** San Salvador, San Salvador
+- **Salario:** No publicado
+- **Antigüedad:** No indicada
+- **Fecha:** No disponible
+- **Fuente:** Computrabajo El Salvador
+- **Enlace:** [Ver oferta y aplicar](https://sv.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-qa-en-san-salvador-1E9881F6B06A3B5561373E686DCF3405)
+
+## Datos e inteligencia artificial
+
+### Analista de Datos Financieros — OE INTERNACIONAL
+
+- **Modalidad:** No indicada
+- **Ubicación:** Soyapango, San Salvador
+- **Salario:** No publicado
+- **Antigüedad:** Hace 2 días
+- **Fecha:** 2026-08-09
+- **Fuente:** Computrabajo El Salvador
+- **Enlace:** [Ver oferta y aplicar](https://sv.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-datos-financieros-en-soyapango-884C981138804F2761373E686DCF3405)
+
+### Analista BI / Datos Financieros — OE INTERNACIONAL
+
+- **Modalidad:** No indicada
+- **Ubicación:** Soyapango, San Salvador
+- **Salario:** No publicado
+- **Antigüedad:** Hace 2 días
+- **Fecha:** 2026-08-09
+- **Fuente:** Computrabajo El Salvador
+- **Enlace:** [Ver oferta y aplicar](https://sv.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-bi-datos-financieros-en-soyapango-BB0D5B5F6C1E4D2861373E686DCF3405)
+
+### Digitalizador y analista de datos — Contrataciones Empresariales,S.A. de C.V.
+
+- **Modalidad:** No indicada
+- **Ubicación:** Opico, La Libertad
+- **Salario:** 450.00 US$ (Mensual)
+- **Antigüedad:** Hace 3 días
+- **Fecha:** 2026-08-08
+- **Fuente:** Computrabajo El Salvador
+- **Enlace:** [Ver oferta y aplicar](https://sv.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-digitalizador-y-analista-de-datos-en-opico-9D35DF5B4898924A61373E686DCF3405)
+
+### Analista de Datos San Miguel — Empresa no indicada
+
+- **Modalidad:** No indicada
+- **Ubicación:** Importante empresa del sector San Miguel, San Miguel
+- **Salario:** No publicado
+- **Antigüedad:** Hace 3 días
+- **Fecha:** 2026-08-08
+- **Fuente:** Computrabajo El Salvador
+- **Enlace:** [Ver oferta y aplicar](https://sv.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-datos-san-miguel-san-miguel-en-san-miguel-BE7895B0972B26C261373E686DCF3405)
+
+### Administrador de base de datos — CONSTRU-SERVICES SA DE CV
 
 - **Modalidad:** No indicada
 - **Ubicación:** Nejapa, San Salvador
-- **Salario:** USD 1,300–1,500; periodicidad no indicada
-- **Publicación:** Hace 28 días — 2026-07-14
-- **Fuente:** Tecoloco El Salvador
-- **Enlace:** [Ver oferta](https://www.tecoloco.com.sv/1093148/administrador-de-redes.aspx)
-
-### Administrador de Base de Datos DBA — OE Internacional
-
-- **Modalidad:** No indicada
-- **Ubicación:** San Salvador, El Salvador
-- **Salario:** USD 1,300; periodicidad no indicada
-- **Publicación:** Hace 29 días — 2026-07-13
-- **Fuente:** Tecoloco El Salvador
-- **Enlace:** [Ver oferta](https://www.tecoloco.com.sv/1092745/administrador-de-base-de-datos.aspx)
-
-### Analista de Datos — Empresa confidencial
-
-## 4. DevOps, cloud y ciberseguridad
-
-### Operador SOC — Importante empresa del sector tecnológico
-
-- **Modalidad:** No indicada
-- **Ubicación:** San Salvador, San Salvador
-- **Salario:** USD 600 mensuales
-- **Publicación:** Hoy — 2026-08-11
+- **Salario:** No publicado
+- **Antigüedad:** Hace 4 días
+- **Fecha:** 2026-08-07
 - **Fuente:** Computrabajo El Salvador
-- **Enlace:** [Ver oferta](https://sv.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-operador-soc-ciberseguridad-en-san-salvador-EBC52F6149293E4F61373E686DCF3405)
+- **Enlace:** [Ver oferta y aplicar](https://sv.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-administrador-de-base-de-datos-nejapa-en-nejapa-7C3CE653BE5345FC61373E686DCF3405)
 
-### Analista de Seguridad de la Información y Prevención de Fraude — T-CONTRATO
-
-- **Modalidad:** Híbrido
-- **Ubicación:** San Salvador, San Salvador
-- **Salario:** USD 1,600 mensuales
-- **Publicación:** Hoy — 2026-08-11
-- **Fuente:** Computrabajo El Salvador
-- **Enlace:** [Ver oferta](https://sv.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-seguridad-de-la-informacion-y-prevencion-de-fraude-en-san-salvador-90EC3C8A63A6461B61373E686DCF3405)
-
-### Platform Manager - Camunda or Boomi — RSM US-El Salvador
+### Ingeniero de software junior de ai y cloud presencial boulevard los próceres — Empresa no indicada
 
 - **Modalidad:** No indicada
-- **Ubicación:** San Salvador, San Salvador, El Salvador
+- **Ubicación:** El Salvador
 - **Salario:** No publicado
-- **Publicación:** Hace 2 días — 2026-08-09
-- **Fuente:** LinkedIn Jobs
-- **Enlace:** [Ver oferta](https://sv.linkedin.com/jobs/view/4404455541)
-
-### Automation Engineer – SaaS StartUp — Scale Up Recruiting Partners
-
-- **Modalidad:** Remoto
-- **Ubicación:** San Salvador, El Salvador
-- **Salario:** No publicado
-- **Publicación:** Hace 2 días — 2026-08-09
-- **Fuente:** LinkedIn Jobs
-- **Enlace:** [Ver oferta](https://sv.linkedin.com/jobs/view/4450936615)
-
-### Analista de Seguridad de la Información — Empresa confidencial
-
-- **Modalidad:** No indicada
-- **Ubicación:** San Salvador, El Salvador
-- **Salario:** USD 1,000; periodicidad no indicada
-- **Publicación:** Hace 3 días — 2026-08-08
+- **Antigüedad:** No indicada
+- **Fecha:** No disponible
 - **Fuente:** Tecoloco El Salvador
-- **Enlace:** [Ver oferta](https://www.tecoloco.com.sv/1099512/analista-de-seguridad-informatica.aspx)
+- **Enlace:** [Ver oferta y aplicar](https://www.tecoloco.com.sv/1099966/analista-de-sistemas.aspx)
 
-### SRE (Site Reliability Engineer) — Babel
+### Ingeniero de datos — Empresa no indicada
 
 - **Modalidad:** No indicada
-- **Ubicación:** San Salvador, San Salvador, El Salvador
+- **Ubicación:** El Salvador
 - **Salario:** No publicado
-- **Publicación:** Hace 5 días — 2026-08-06
-- **Fuente:** LinkedIn Jobs
-- **Enlace:** [Ver oferta](https://sv.linkedin.com/jobs/view/4449308290)
+- **Antigüedad:** No indicada
+- **Fecha:** No disponible
+- **Fuente:** Tecoloco El Salvador
+- **Enlace:** [Ver oferta y aplicar](https://www.tecoloco.com.sv/1099351/analista-de-base-de-datos.aspx)
 
-### DevOps Senior — Empresa confidencial
+### Analista de Datos Jr. — FABRICA DE ALIMENTOS S.A.DE C.V
+
+- **Modalidad:** No indicada
+- **Ubicación:** Antiguo Cuscatlán, La Libertad
+- **Salario:** 800.00 US$ (Mensual)
+- **Antigüedad:** No indicada
+- **Fecha:** No disponible
+- **Fuente:** Computrabajo El Salvador
+- **Enlace:** [Ver oferta y aplicar](https://sv.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-datos-jr-manejo-de-bases-de-datos-en-antiguo-cuscatlan-CDBCD1F5C7A1C12161373E686DCF3405)
+
+### Administrador de base de Datos — OE INTERNACIONAL
 
 - **Modalidad:** No indicada
 - **Ubicación:** San Salvador, San Salvador
 - **Salario:** No publicado
-- **Publicación:** Hace 5 días (actualizada)
+- **Antigüedad:** No indicada
+- **Fecha:** No disponible
 - **Fuente:** Computrabajo El Salvador
-- **Enlace:** [Ver oferta](https://sv.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-devops-senior-en-san-salvador-d1a2cd0214e0c40c61373e686dcf3405)
+- **Enlace:** [Ver oferta y aplicar](https://sv.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-administrador-de-base-de-datos-en-san-salvador-9B7A5ED1A8A6DD9061373E686DCF3405)
 
-### DevOps Engineer — Mercor
+## DevOps, cloud y ciberseguridad
 
-- **Modalidad:** Remoto
-- **Ubicación:** El Salvador
-- **Salario:** USD 85 por hora
-- **Publicación:** Hace 1 semana
-- **Fuente:** LinkedIn Jobs
-- **Enlace:** [Ver oferta](https://sv.linkedin.com/jobs/view/4447246897)
-
-### DevOps Engineer — Stefanini Group
-
-- **Modalidad:** Remoto
-- **Ubicación:** El Salvador
-- **Salario:** No publicado
-- **Publicación:** Hace 1 semana
-- **Fuente:** LinkedIn Jobs
-- **Enlace:** [Ver oferta](https://sv.linkedin.com/jobs/view/4446938110)
-
-### Especialista de Ciberseguridad Temporal — OE Internacional
+### Analista Devops — OE INTERNACIONAL
 
 - **Modalidad:** No indicada
-- **Ubicación:** San Salvador, El Salvador
-- **Salario:** No publicado
-- **Publicación:** Hace 15 días — 2026-07-27
-- **Fuente:** Tecoloco El Salvador
-- **Enlace:** [Ver oferta](https://www.tecoloco.com.sv/1096699/analista-de-seguridad-informatica.aspx)
-
-### Administrador de Ciberseguridad — Empresa confidencial
-
-- **Modalidad:** No indicada
-- **Ubicación:** San Salvador, El Salvador
-- **Salario:** No publicado
-- **Publicación:** Hace 32 días — 2026-07-10
-- **Fuente:** Tecoloco El Salvador
-- **Enlace:** [Ver oferta](https://www.tecoloco.com.sv/1092524/analista-de-seguridad-informatica.aspx)
-
-### DevOps Engineer — UNICOMER
-
-- **Modalidad:** Híbrido
-- **Ubicación:** San Salvador, El Salvador
-- **Salario:** USD 2,000; periodicidad no indicada
-- **Publicación:** No disponible
-- **Fuente:** Tecoloco El Salvador
-- **Enlace:** [Ver oferta](https://www.tecoloco.com.sv/1090326/devops.aspx)
-
-## 5. Soporte, redes e infraestructura
-
-### Asesor de Implementaciones - Soporte Técnico — INVUPOS
-
-- **Modalidad:** Híbrido
-- **Ubicación:** San Salvador, San Salvador
-- **Salario:** USD 800 mensuales
-- **Publicación:** Hoy — 2026-08-11
-- **Fuente:** Computrabajo El Salvador
-- **Enlace:** [Ver oferta](https://sv.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-asesor-de-implementaciones-soporte-tecnico-en-san-salvador-0EDAF00D327E760961373E686DCF3405)
-
-### Técnico de Soporte Remoto — Latin Top Jobs
-
-- **Modalidad:** Remoto
-- **Ubicación:** San Salvador, San Salvador
-- **Salario:** USD 700 mensuales
-- **Publicación:** Hoy — 2026-08-11
-- **Fuente:** Computrabajo El Salvador
-- **Enlace:** [Ver oferta](https://sv.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-tecnico-de-soporte-remoto-en-san-salvador-9024BD303BAF3FCA61373E686DCF3405)
-
-### Technical Customer Support Specialist — AB POS Solutions SV
-
-- **Modalidad:** Presencial
-- **Ubicación:** San Salvador, El Salvador
-- **Salario:** No publicado
-- **Publicación:** Hace 1 día — 2026-08-10
-- **Fuente:** LinkedIn Jobs
-- **Enlace:** [Ver oferta](https://sv.linkedin.com/jobs/view/4448309253)
-
-### Application Support L3 — Babel
-
-- **Modalidad:** No indicada
-- **Ubicación:** San Salvador, San Salvador, El Salvador
-- **Salario:** No publicado
-- **Publicación:** Hace 1 día — 2026-08-10
-- **Fuente:** LinkedIn Jobs
-- **Enlace:** [Ver oferta](https://sv.linkedin.com/jobs/view/4451475025)
-
-### Soporte de Redes Jr — Grupo Ferromax Galvanissa
-
-- **Modalidad:** No indicada
-- **Ubicación:** San Salvador, El Salvador
-- **Salario:** No publicado
-- **Publicación:** Hace 1 día — 2026-08-10
-- **Fuente:** Tecoloco El Salvador
-- **Enlace:** [Ver oferta](https://www.tecoloco.com.sv/1099777/administrador-de-redes.aspx)
-
-### Jefe de Infraestructura y Soporte Técnico — Empresa confidencial
-
-- **Modalidad:** No indicada
-- **Ubicación:** San Salvador, El Salvador
-- **Salario:** No publicado
-- **Publicación:** Hace 1 día — 2026-08-10
-- **Fuente:** Tecoloco El Salvador
-- **Enlace:** [Ver oferta](https://www.tecoloco.com.sv/1099726/jefe-de-soporte-tecnico.aspx)
-
-### Technical Support Specialist — AppHelp
-
-- **Modalidad:** No indicada
-- **Ubicación:** El Salvador
-- **Salario:** No publicado
-- **Publicación:** Hace 3 días — 2026-08-08
-- **Fuente:** LinkedIn Jobs
-- **Enlace:** [Ver oferta](https://sv.linkedin.com/jobs/view/4450372827)
-
-### Network Infrastructure Engineer — RSM US-El Salvador
-
-- **Modalidad:** No indicada
-- **Ubicación:** San Salvador, El Salvador
-- **Salario:** No publicado
-- **Publicación:** Hace 3 días — 2026-08-08
-- **Fuente:** LinkedIn Jobs
-- **Enlace:** [Ver oferta](https://sv.linkedin.com/jobs/view/4441714979)
-
-### IT Support Specialist — Ria Money Transfer
-
-- **Modalidad:** Presencial
-- **Ubicación:** San Salvador, El Salvador
-- **Salario:** No publicado
-- **Publicación:** Hace 4 días — 2026-08-07
-- **Fuente:** LinkedIn Jobs
-- **Enlace:** [Ver oferta](https://sv.linkedin.com/jobs/view/4449225323)
-
-### IT Systems Administrator — GAC Solutions
-
-- **Modalidad:** No indicada
-- **Ubicación:** El Salvador
-- **Salario:** USD 21,600–30,000 anuales
-- **Publicación:** Hace 5 días — 2026-08-06
-- **Fuente:** LinkedIn Jobs
-- **Enlace:** [Ver oferta](https://sv.linkedin.com/jobs/view/4449632884)
-
-### Remote Technical Support Specialist — Cognizant
-
-- **Modalidad:** Remoto
-- **Ubicación:** San Salvador, El Salvador
-- **Salario:** No publicado
-- **Publicación:** Hace 6 días — 2026-08-05
-- **Fuente:** LinkedIn Jobs
-- **Enlace:** [Ver oferta](https://sv.linkedin.com/jobs/view/4449186953)
-
-### Auxiliar de Soporte Técnico IT — Almacenes Vidrí
-
-- **Modalidad:** No indicada
-- **Ubicación:** La Libertad, El Salvador
-- **Salario:** USD 500; periodicidad no indicada
-- **Publicación:** Hace 14 días — 2026-07-28
-- **Fuente:** Tecoloco El Salvador
-- **Enlace:** [Ver oferta](https://www.tecoloco.com.sv/1096775/soporte-tecnico.aspx)
-
-### Soporte Técnico Aplicaciones SV — Tecoloco
-
-- **Modalidad:** No indicada
-- **Ubicación:** San Salvador, El Salvador
-- **Salario:** USD 1,200–1,800; periodicidad no indicada
-- **Publicación:** Hace 27 días — 2026-07-15
-- **Fuente:** Tecoloco El Salvador
-- **Enlace:** [Ver oferta](https://www.tecoloco.com.sv/1093595/soporte-tecnico.aspx)
-
-### Operador de Sistemas TI — Empresa confidencial
-
-- **Modalidad:** No indicada
-- **Ubicación:** San Salvador, El Salvador
-- **Salario:** No publicado
-- **Publicación:** Hace 28 días — 2026-07-14
-- **Fuente:** Tecoloco El Salvador
-- **Enlace:** [Ver oferta](https://www.tecoloco.com.sv/1093350/operador-de-sistemas.aspx)
-
-### Especialista de Tecnologías — CLARO
-
-- **Modalidad:** No indicada
-- **Ubicación:** San Salvador, El Salvador
-- **Salario:** USD 1,100–1,590 mensuales
-- **Publicación:** Hace 36 días — 2026-07-06
-- **Fuente:** Tecoloco El Salvador
-- **Enlace:** [Ver oferta](https://www.tecoloco.com.sv/1091148/analista-de-sistemas.aspx)
-
-### Analista de Soporte — Empresa confidencial
-
-- **Modalidad:** No indicada
-- **Ubicación:** San Salvador, El Salvador
-- **Salario:** No publicado
-- **Publicación:** Hace 36 días — 2026-07-06
-- **Fuente:** Tecoloco El Salvador
-- **Enlace:** [Ver oferta](https://www.tecoloco.com.sv/1090662/analista-programador.aspx)
-
-### Analista Gestión Integrada de Servicios de TI — Banco Agrícola
-
-## 6. Producto, UX/UI y gestión tecnológica
-
-### Ingeniero de Producto CCaaS / UCaaS — SRL Soluciones
-
-- **Modalidad:** Híbrido
-- **Ubicación:** San Salvador, San Salvador, El Salvador
-- **Salario:** No publicado
-- **Publicación:** Hoy — 2026-08-11
-- **Fuente:** LinkedIn Jobs
-- **Enlace:** [Ver oferta](https://sv.linkedin.com/jobs/view/4452185463)
-
-### Oficial de Proyectos IT — CLAC
-
-- **Modalidad:** Híbrido
 - **Ubicación:** San Salvador, San Salvador
 - **Salario:** No publicado
-- **Publicación:** Hoy — 2026-08-11
+- **Antigüedad:** Hace 2 días
+- **Fecha:** 2026-08-09
 - **Fuente:** Computrabajo El Salvador
-- **Enlace:** [Ver oferta](https://sv.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-oficial-de-proyectos-it-en-san-salvador-EFCF077666DD6B5761373E686DCF3405)
+- **Enlace:** [Ver oferta y aplicar](https://sv.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-devops-en-san-salvador-C1F18FF18D4ACC4261373E686DCF3405)
 
-### Project Manager (IT) - Remote Work — BairesDev
-
-- **Modalidad:** Remoto
-- **Ubicación:** El Salvador
-- **Salario:** No publicado
-- **Publicación:** Hace 1 día — 2026-08-10
-- **Fuente:** LinkedIn Jobs
-- **Enlace:** [Ver oferta](https://sv.linkedin.com/jobs/view/4451405574)
-
-### Semi Senior Project Manager - Remote Work — BairesDev
-
-- **Modalidad:** Remoto
-- **Ubicación:** El Salvador
-- **Salario:** No publicado
-- **Publicación:** Hace 1 día — 2026-08-10
-- **Fuente:** LinkedIn Jobs
-- **Enlace:** [Ver oferta](https://sv.linkedin.com/jobs/view/4451419789)
-
-### Technical Project Manager - Remote Work — BairesDev
-
-- **Modalidad:** Remoto
-- **Ubicación:** El Salvador
-- **Salario:** No publicado
-- **Publicación:** Hace 1 día — 2026-08-10
-- **Fuente:** LinkedIn Jobs
-- **Enlace:** [Ver oferta](https://sv.linkedin.com/jobs/view/4451447410)
-
-### Forward Deployed Lead — WOT Dev
+### Especialista en Ciberseguridad y Redes — MULTITEL EL SALVADOR
 
 - **Modalidad:** No indicada
-- **Ubicación:** El Salvador
-- **Salario:** No publicado
-- **Publicación:** Hace 1 día — 2026-08-10
-- **Fuente:** LinkedIn Jobs
-- **Enlace:** [Ver oferta](https://sv.linkedin.com/jobs/view/4451394717)
+- **Ubicación:** San Salvador, San Salvador
+- **Salario:** 1,500.00 US$ (Mensual)
+- **Antigüedad:** No indicada
+- **Fecha:** No disponible
+- **Fuente:** Computrabajo El Salvador
+- **Enlace:** [Ver oferta y aplicar](https://sv.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-especialista-en-ciberseguridad-y-redes-en-san-salvador-6247F120199DC94261373E686DCF3405)
 
-### Analista Senior de Productos Digitales — Banco Atlántida
-
-- **Modalidad:** No indicada
-- **Ubicación:** San Salvador, El Salvador
-- **Salario:** No publicado
-- **Publicación:** Hace 22 días — 2026-07-20
-- **Fuente:** Tecoloco El Salvador
-- **Enlace:** [Ver oferta](https://www.tecoloco.com.sv/1094600/ejecutivo-de-banco.aspx)
-
-### Analista de Procesos (Tecnología) — Empresa confidencial
-
-- **Modalidad:** Híbrido
-- **Ubicación:** San Salvador, El Salvador
-- **Salario:** No publicado
-- **Publicación:** Hace 27 días — 2026-07-15
-- **Fuente:** Tecoloco El Salvador
-- **Enlace:** [Ver oferta](https://www.tecoloco.com.sv/1093542/analista-de-sistemas.aspx)
-
-### Agile Coach — OE Internacional
+### Analista de seguridad informática — Empresa no indicada
 
 - **Modalidad:** No indicada
-- **Ubicación:** San Salvador, El Salvador
-- **Salario:** No publicado
-- **Publicación:** Hace 29 días — 2026-07-13
-- **Fuente:** Tecoloco El Salvador
-- **Enlace:** [Ver oferta](https://www.tecoloco.com.sv/1092747/analista-programador.aspx)
+- **Ubicación:** Importante empresa del sector San Salvador, San Salvador
+- **Salario:** 1,000.00 US$ (Mensual)
+- **Antigüedad:** No indicada
+- **Fecha:** No disponible
+- **Fuente:** Computrabajo El Salvador
+- **Enlace:** [Ver oferta y aplicar](https://sv.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-seguridad-informatica-en-san-salvador-5CE8D7CFD20408AC61373E686DCF3405)
 
-### Scrum Master — Empresa confidencial
+## Soporte, redes e infraestructura
 
-- **Modalidad:** No indicada
-- **Ubicación:** La Libertad, El Salvador
-- **Salario:** No publicado
-- **Publicación:** Hace 35 días — 2026-07-07
-- **Fuente:** Tecoloco El Salvador
-- **Enlace:** [Ver oferta](https://www.tecoloco.com.sv/1091543/analista-programador.aspx)
-
-### AI Product Manager — Applaudo
+### Técnico en Soporte IT/TI — Empresa no indicada
 
 - **Modalidad:** No indicada
-- **Ubicación:** San Salvador, El Salvador
+- **Ubicación:** Importante empresa del sector de restaurantes Santa Ana, Santa Ana
 - **Salario:** No publicado
-- **Publicación:** No disponible
-- **Fuente:** LinkedIn Jobs
-- **Enlace:** [Ver oferta](https://sv.linkedin.com/jobs/view/4440574034)
+- **Antigüedad:** Hace 19 horas
+- **Fecha:** 2026-08-11
+- **Fuente:** Computrabajo El Salvador
+- **Enlace:** [Ver oferta y aplicar](https://sv.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-tecnico-en-soporte-itti-en-santa-ana-2BD755D46907C79E61373E686DCF3405)
+
+### Ingeniero de Redes Juniper — Flowing Rivers S.A de C.V
+
+- **Modalidad:** No indicada
+- **Ubicación:** San Salvador, San Salvador
+- **Salario:** No publicado
+- **Antigüedad:** Hace 1 hora
+- **Fecha:** 2026-08-11
+- **Fuente:** Computrabajo El Salvador
+- **Enlace:** [Ver oferta y aplicar](https://sv.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ingeniero-de-redes-juniper-san-salvador-en-san-salvador-E0997F1E92D70CD561373E686DCF3405)
+
+### Auxiliar de soporte técnico — C. Imberton, S.A.
+
+- **Modalidad:** No indicada
+- **Ubicación:** La Libertad, La Libertad
+- **Salario:** No publicado
+- **Antigüedad:** Hace 2 horas
+- **Fecha:** 2026-08-11
+- **Fuente:** Computrabajo El Salvador
+- **Enlace:** [Ver oferta y aplicar](https://sv.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-auxiliar-de-soporte-tecnico-en-la-libertad-2A100FF0F6FE2A6C61373E686DCF3405)
+
+### Analista soporte técnico — CORPORACIÓN PIRÁMIDE, S.A. DE C.V.
+
+- **Modalidad:** No indicada
+- **Ubicación:** San Salvador, San Salvador
+- **Salario:** No publicado
+- **Antigüedad:** Hace 8 horas
+- **Fecha:** 2026-08-11
+- **Fuente:** Computrabajo El Salvador
+- **Enlace:** [Ver oferta y aplicar](https://sv.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-soporte-tecnico-disponibilidad-inmediata-en-san-salvador-E0A768651D861C5961373E686DCF3405)
+
+### Soporte tecnico y redes — CONSTRU-SERVICES SA DE CV
+
+- **Modalidad:** No indicada
+- **Ubicación:** Nejapa, San Salvador
+- **Salario:** 700.00 US$ (Mensual)
+- **Antigüedad:** Ayer
+- **Fecha:** 2026-08-10
+- **Fuente:** Computrabajo El Salvador
+- **Enlace:** [Ver oferta y aplicar](https://sv.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-soporte-tecnico-y-redes-nejapa-en-nejapa-B722F44D77A0781861373E686DCF3405)
+
+### Soporte tecnico y redes — CONSTRU-SERVICES SA DE CV
+
+- **Modalidad:** No indicada
+- **Ubicación:** Santa Ana, Santa Ana
+- **Salario:** 700.00 US$ (Mensual)
+- **Antigüedad:** Hace 2 días
+- **Fecha:** 2026-08-09
+- **Fuente:** Computrabajo El Salvador
+- **Enlace:** [Ver oferta y aplicar](https://sv.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-soporte-tecnico-y-redes-santa-ana-en-santa-ana-2F9D1C1DC638DE9061373E686DCF3405)
+
+### Tecnico en redes e Informatica — TECNOLOGIA Y EQUIPOS TECPLAN, S.A. DE C.V.
+
+- **Modalidad:** No indicada
+- **Ubicación:** San Salvador, San Salvador
+- **Salario:** No publicado
+- **Antigüedad:** Hace 5 días
+- **Fecha:** 2026-08-06
+- **Fuente:** Computrabajo El Salvador
+- **Enlace:** [Ver oferta y aplicar](https://sv.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-tecnico-en-redes-e-informatica-tiempo-completo-en-san-salvador-E1CE27DF471714CF61373E686DCF3405)
+
+### Tecnico Instalador de Fibra Optica y Redes — Blue Fusion, S.A. de C.V
+
+- **Modalidad:** No indicada
+- **Ubicación:** San Salvador, San Salvador
+- **Salario:** 408.00 US$ (Mensual)
+- **Antigüedad:** No indicada
+- **Fecha:** No disponible
+- **Fuente:** Computrabajo El Salvador
+- **Enlace:** [Ver oferta y aplicar](https://sv.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-tecnico-instalador-de-fibra-optica-y-redes-en-san-salvador-8CE4FDB88CCCD05661373E686DCF3405)
+
+## Producto, UX/UI y gestión tecnológica
+
+No se encontraron ofertas activas verificadas.
 
 ## Fuentes consultadas
 
-- **Tecoloco El Salvador:** búsquedas explícitas bilingües, páginas 1 y 2 por término, listado público de Informática y páginas individuales; se verificó que la fecha de expiración fuera posterior a esta actualización.
-- **Computrabajo El Salvador:** búsquedas explícitas en español e inglés en dos páginas por término; ante el bloqueo automatizado se revisaron listados públicos indexados y fichas individuales, excluyendo resultados sin ficha verificable.
-- **LinkedIn Jobs:** búsquedas explícitas en español e inglés para El Salvador y sus principales ciudades, páginas 1 y 2 por consulta y fichas individuales; se retiraron publicaciones que indicaban que ya no aceptaban solicitudes y las que tenían datos contradictorios.
+- Computrabajo El Salvador
+- Tecoloco El Salvador
 
-### Términos probados en cada bolsa
-
-En Tecoloco, Computrabajo y LinkedIn Jobs se probaron, como mínimo, todos estos términos y variantes, combinados según el portal con **El Salvador**, **San Salvador**, **La Libertad**, **Santa Tecla** y otras ubicaciones salvadoreñas. Se revisó más de una página cuando estuvo disponible.
-
-- Español: analista de datos; administrador de base de datos; administrador de bases de datos; ingeniero de datos; científico de datos; desarrollador; programador; analista programador; ingeniero de software; soporte técnico; técnico de soporte; administrador de sistemas; administrador de redes; ingeniero de redes; seguridad informática; ciberseguridad; analista QA; control de calidad; control de calidad de software; inteligencia artificial; especialista en tecnología; jefe de informática; gerente de tecnología; producto digital; diseñador UX; diseñador UI; Scrum Master.
-- Inglés: Software Engineer; Software Developer; Backend Developer; Frontend Developer; Full Stack Developer; Mobile Developer; iOS Developer; Android Developer; Data Analyst; Data Engineer; Data Scientist; Database Administrator; QA Engineer; QA Analyst; Quality Assurance; DevOps Engineer; Cloud Engineer; Cybersecurity Analyst; Security Engineer; IT Support; Technical Support; Systems Administrator; Network Engineer; Product Manager; UX Designer; UI Designer; Scrum Master.
-
-> Las ofertas pueden cambiar, cerrarse o modificarse después de esta actualización. Confirma los detalles en el enlace directo antes de postularte.
+Las ofertas pueden cambiar o cerrarse después de esta actualización.
 
 Actualización automática diaria por Adam ⚡️

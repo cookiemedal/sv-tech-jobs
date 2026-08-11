@@ -69,24 +69,6 @@ Ofertas tecnológicas verificadas individualmente como activas y disponibles par
 - **Fuente:** Tecoloco El Salvador
 - **Enlace:** [Ver oferta](https://www.tecoloco.com.sv/1099672/analista-programador.aspx)
 
-### Programador JAVA EE Híbrido — OPTIMA CONSULTORES
-
-- **Modalidad:** Híbrido
-- **Ubicación:** San Salvador, El Salvador
-- **Salario:** USD 1,800 mensuales
-- **Publicación:** Hace 2 días — 2026-08-09
-- **Fuente:** TrabajosDiarios
-- **Enlace:** [Ver oferta](https://sv.trabajosdiarios.com/trabajo/3073940/programador-java-ee-hibrido-en-san-salvador)
-
-### Analista Programador Oracle Forms y Reports — OPTIMA CONSULTORES
-
-- **Modalidad:** Híbrido
-- **Ubicación:** San Salvador, El Salvador
-- **Salario:** No publicado
-- **Publicación:** Hace 2 días — 2026-08-09
-- **Fuente:** TrabajosDiarios
-- **Enlace:** [Ver oferta](https://sv.trabajosdiarios.com/trabajo/3073941/analista-programador-oracle-forms-y-reports-en-san-salvador)
-
 ### Senior Full Stack Developer (React & Node.js) — Applaudo
 
 - **Modalidad:** No indicada
@@ -150,15 +132,6 @@ Ofertas tecnológicas verificadas individualmente como activas y disponibles par
 - **Fuente:** LinkedIn Jobs
 - **Enlace:** [Ver oferta](https://sv.linkedin.com/jobs/view/4449669971)
 
-### Programador Junior — P.P.J.L. de El Salvador, S.A. de C.V.
-
-- **Modalidad:** No indicada
-- **Ubicación:** Santa Tecla, La Libertad
-- **Salario:** USD 700 mensuales
-- **Publicación:** Hace 8 días — 2026-08-03
-- **Fuente:** TrabajosDiarios
-- **Enlace:** [Ver oferta](https://sv.trabajosdiarios.com/trabajo/3071434/programador-junior-en-la-libertad)
-
 ### iOS Developer — Applaudo
 
 - **Modalidad:** No indicada
@@ -186,42 +159,6 @@ Ofertas tecnológicas verificadas individualmente como activas y disponibles par
 - **Fuente:** LinkedIn Jobs
 - **Enlace:** [Ver oferta](https://sv.linkedin.com/jobs/view/4410210073)
 
-### Programador .NET — OPTIMA CONSULTORES
-
-- **Modalidad:** No indicada
-- **Ubicación:** Santa Tecla, La Libertad
-- **Salario:** No publicado
-- **Publicación:** Hace 11 días — 2026-07-31
-- **Fuente:** TrabajosDiarios
-- **Enlace:** [Ver oferta](https://sv.trabajosdiarios.com/trabajo/3071007/programador-net-en-la-libertad)
-
-### Analista Programador Oracle PLSQL — OPTIMA CONSULTORES
-
-- **Modalidad:** Híbrido
-- **Ubicación:** Santa Tecla, La Libertad
-- **Salario:** No publicado
-- **Publicación:** Hace 11 días — 2026-07-31
-- **Fuente:** TrabajosDiarios
-- **Enlace:** [Ver oferta](https://sv.trabajosdiarios.com/trabajo/3064996/analista-programador-oracle-plsql-en-la-libertad)
-
-### Analista Desarrollador — Sistemas Pliret
-
-- **Modalidad:** No indicada
-- **Ubicación:** San Salvador, El Salvador
-- **Salario:** No publicado
-- **Publicación:** Hace 12 días — 2026-07-30
-- **Fuente:** TrabajosDiarios
-- **Enlace:** [Ver oferta](https://sv.trabajosdiarios.com/trabajo/3070507/analista-desarrollador-en-san-salvador)
-
-### Analista Programador Oracle, plaza híbrida — OPTIMA CONSULTORES
-
-- **Modalidad:** Híbrido
-- **Ubicación:** San Salvador, El Salvador
-- **Salario:** USD 1,600 mensuales
-- **Publicación:** Hace 15 días — 2026-07-27
-- **Fuente:** TrabajosDiarios
-- **Enlace:** [Ver oferta](https://sv.trabajosdiarios.com/trabajo/3059627/analista-programador-oracle-plaza-hibrida-en-san-salvador)
-
 ### Fullstack Junior — Deloitte
 
 - **Modalidad:** No indicada
@@ -230,33 +167,6 @@ Ofertas tecnológicas verificadas individualmente como activas y disponibles par
 - **Publicación:** Hace 2 semanas
 - **Fuente:** LinkedIn Jobs
 - **Enlace:** [Ver oferta](https://sv.linkedin.com/jobs/view/4443075130)
-
-### Desarrollador Node.js — Sistemas Pliret
-
-- **Modalidad:** Híbrido
-- **Ubicación:** San Salvador, El Salvador
-- **Salario:** No publicado
-- **Publicación:** Hace 18 días — 2026-07-24
-- **Fuente:** TrabajosDiarios
-- **Enlace:** [Ver oferta](https://sv.trabajosdiarios.com/trabajo/3068487/desarrollador-node-js-en-san-salvador)
-
-### Programador Java — OPTIMA CONSULTORES
-
-- **Modalidad:** Híbrido
-- **Ubicación:** San Salvador, El Salvador
-- **Salario:** USD 1,600–1,700 mensuales
-- **Publicación:** Hace 19 días — 2026-07-23
-- **Fuente:** TrabajosDiarios
-- **Enlace:** [Ver oferta](https://sv.trabajosdiarios.com/trabajo/3067861/programador-java-hibrido-en-san-salvador)
-
-### Programador Senior Unity para Videojuegos — Wice Games Studio
-
-- **Modalidad:** No indicada
-- **Ubicación:** San Benito, San Salvador
-- **Salario:** No publicado
-- **Publicación:** Hace 20 días — 2026-07-22
-- **Fuente:** TrabajosDiarios
-- **Enlace:** [Ver oferta](https://sv.trabajosdiarios.com/trabajo/3067400/programador-senior-unity-para-videojuegos-en-san-salvador)
 
 ### Programador de Desarrollo de Canales Electrónicos — FEDECREDITO
 
@@ -276,24 +186,6 @@ Ofertas tecnológicas verificadas individualmente como activas y disponibles par
 - **Fuente:** Tecoloco El Salvador
 - **Enlace:** [Ver oferta](https://www.tecoloco.com.sv/1094227/analista-programador.aspx)
 
-### Desarrollador Oracle — Sistemas Pliret
-
-- **Modalidad:** No indicada
-- **Ubicación:** San Salvador, El Salvador
-- **Salario:** No publicado
-- **Publicación:** Hace 25 días — 2026-07-17
-- **Fuente:** TrabajosDiarios
-- **Enlace:** [Ver oferta](https://sv.trabajosdiarios.com/trabajo/3065431/desarrollador-oracle-en-san-salvador)
-
-### Desarrollador Backend Java — Sistemas Pliret
-
-- **Modalidad:** No indicada
-- **Ubicación:** San Salvador, El Salvador
-- **Salario:** No publicado
-- **Publicación:** Hace 25 días — 2026-07-17
-- **Fuente:** TrabajosDiarios
-- **Enlace:** [Ver oferta](https://sv.trabajosdiarios.com/trabajo/3065441/desarrollador-backend-java-en-san-salvador)
-
 ### Analista Programador Oracle PLSQL — Optima Consultores
 
 - **Modalidad:** Híbrido
@@ -311,15 +203,6 @@ Ofertas tecnológicas verificadas individualmente como activas y disponibles par
 - **Publicación:** Hace 28 días — 2026-07-14
 - **Fuente:** Tecoloco El Salvador
 - **Enlace:** [Ver oferta](https://www.tecoloco.com.sv/1093318/analista-programador.aspx)
-
-### Desarrollador Java Spring Boot — OPTIMA CONSULTORES
-
-- **Modalidad:** Híbrido
-- **Ubicación:** San Salvador, El Salvador
-- **Salario:** No publicado
-- **Publicación:** Hace 28 días — 2026-07-14
-- **Fuente:** TrabajosDiarios
-- **Enlace:** [Ver oferta](https://sv.trabajosdiarios.com/trabajo/3041652/desarrollador-java-spring-boot-en-san-salvador)
 
 ### Analista de Sistemas Java Full Stack, proyecto de 1 año — Empresa confidencial
 
@@ -406,24 +289,6 @@ Ofertas tecnológicas verificadas individualmente como activas y disponibles par
 - **Fuente:** LinkedIn Jobs
 - **Enlace:** [Ver oferta](https://sv.linkedin.com/jobs/view/4451452800)
 
-### Analista de Certificación de Canales Digitales — OPTIMA CONSULTORES
-
-- **Modalidad:** No indicada
-- **Ubicación:** San Salvador, El Salvador
-- **Salario:** USD 800 mensuales
-- **Publicación:** Hace 1 día — 2026-08-10
-- **Fuente:** TrabajosDiarios
-- **Enlace:** [Ver oferta](https://sv.trabajosdiarios.com/trabajo/3074034/analista-de-certificacion-de-canales-digitales-en-san-salvador)
-
-### Control de Calidad Junior — Sistemas Pliret
-
-- **Modalidad:** No indicada
-- **Ubicación:** San Salvador, El Salvador
-- **Salario:** No publicado
-- **Publicación:** Hace 4 días — 2026-08-07
-- **Fuente:** TrabajosDiarios
-- **Enlace:** [Ver oferta](https://sv.trabajosdiarios.com/trabajo/3073755/control-de-calidad-junior-en-san-salvador)
-
 ### Quality Assurance Engineer Senior — RSM US-El Salvador
 
 - **Modalidad:** No indicada
@@ -451,24 +316,6 @@ Ofertas tecnológicas verificadas individualmente como activas y disponibles par
 - **Fuente:** Computrabajo El Salvador
 - **Enlace:** [Ver oferta](https://sv.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-qa-en-san-salvador-b66d3ba09f8598a961373e686dcf3405)
 
-### Analista QA Jr — Sistemas Pliret
-
-- **Modalidad:** No indicada
-- **Ubicación:** San Salvador, El Salvador
-- **Salario:** No publicado
-- **Publicación:** Hace 11 días — 2026-07-31
-- **Fuente:** TrabajosDiarios
-- **Enlace:** [Ver oferta](https://sv.trabajosdiarios.com/trabajo/3071078/analista-qa-jr-en-san-salvador)
-
-### QA Automatizador — OPTIMA CONSULTORES
-
-- **Modalidad:** No indicada
-- **Ubicación:** San Salvador, El Salvador
-- **Salario:** No publicado
-- **Publicación:** Hace 19 días — 2026-07-23
-- **Fuente:** TrabajosDiarios
-- **Enlace:** [Ver oferta](https://sv.trabajosdiarios.com/trabajo/3067698/qa-automatizador-en-san-salvador)
-
 ### Tester QA — OE Internacional
 
 - **Modalidad:** No indicada
@@ -477,15 +324,6 @@ Ofertas tecnológicas verificadas individualmente como activas y disponibles par
 - **Publicación:** Hace 27 días — 2026-07-15
 - **Fuente:** Tecoloco El Salvador
 - **Enlace:** [Ver oferta](https://www.tecoloco.com.sv/1093596/analista-programador.aspx)
-
-### Analista QA — Sistemas Pliret
-
-- **Modalidad:** Remoto
-- **Ubicación:** San Salvador, El Salvador
-- **Salario:** No publicado
-- **Publicación:** Hace 35 días — 2026-07-07
-- **Fuente:** TrabajosDiarios
-- **Enlace:** [Ver oferta](https://sv.trabajosdiarios.com/trabajo/3060956/analista-qa-en-san-salvador)
 
 ### Analista QA — OE Internacional
 
@@ -590,15 +428,6 @@ Ofertas tecnológicas verificadas individualmente como activas y disponibles par
 - **Fuente:** Tecoloco El Salvador
 - **Enlace:** [Ver oferta](https://www.tecoloco.com.sv/1099351/analista-de-base-de-datos.aspx)
 
-### Análisis de Datos Jr — Deinsa Global
-
-- **Modalidad:** Remoto
-- **Ubicación:** San Salvador, El Salvador
-- **Salario:** Pasantía no remunerada
-- **Publicación:** Hace 12 días — 2026-07-30
-- **Fuente:** TrabajosDiarios
-- **Enlace:** [Ver oferta](https://sv.trabajosdiarios.com/trabajo/3070502/analisis-de-datos-jr-en-san-salvador)
-
 ### Analista de Datos Call Center — Empresa confidencial
 
 - **Modalidad:** No indicada
@@ -607,15 +436,6 @@ Ofertas tecnológicas verificadas individualmente como activas y disponibles par
 - **Publicación:** Hace 22 días — 2026-07-20
 - **Fuente:** Tecoloco El Salvador
 - **Enlace:** [Ver oferta](https://www.tecoloco.com.sv/1094480/analista-de-inteligencia-de-negocios.aspx)
-
-### Ingeniero de Datos — Sistemas Pliret
-
-- **Modalidad:** No indicada
-- **Ubicación:** San Salvador, El Salvador
-- **Salario:** No publicado
-- **Publicación:** Hace 25 días — 2026-07-17
-- **Fuente:** TrabajosDiarios
-- **Enlace:** [Ver oferta](https://sv.trabajosdiarios.com/trabajo/3065434/ingeniero-de-datos-en-san-salvador)
 
 ### Administrador de Bases de Datos (Nejapa) — CONSTRU SERVICES S.A
 
@@ -635,34 +455,7 @@ Ofertas tecnológicas verificadas individualmente como activas y disponibles par
 - **Fuente:** Tecoloco El Salvador
 - **Enlace:** [Ver oferta](https://www.tecoloco.com.sv/1092745/administrador-de-base-de-datos.aspx)
 
-### Data Engineer — OPTIMA CONSULTORES
-
-- **Modalidad:** No indicada
-- **Ubicación:** San Salvador, El Salvador
-- **Salario:** No publicado
-- **Publicación:** Hace 40 días — 2026-07-02
-- **Fuente:** TrabajosDiarios
-- **Enlace:** [Ver oferta](https://sv.trabajosdiarios.com/trabajo/3059421/data-engineer-en-san-salvador)
-
 ### Analista de Datos — Empresa confidencial
-
-### Business Intelligence Specialist Senior — TELUS Digital
-
-- **Modalidad:** No indicada
-- **Ubicación:** Antiguo Cuscatlán, La Libertad
-- **Salario:** No publicado
-- **Publicación:** No disponible
-- **Fuente:** Página oficial de TELUS Digital
-- **Enlace:** [Ver oferta](https://careers.telusdigital.com/jobs/18025548-information-technology-business-analytics-and-tools-enablement-business-intelligence-specialist-senior)
-
-### AI Data Annotation Specialist - Portuguese LATAM — TELUS Digital
-
-- **Modalidad:** Remoto
-- **Ubicación:** Antiguo Cuscatlán, La Libertad
-- **Salario:** No publicado
-- **Publicación:** No disponible
-- **Fuente:** Página oficial de TELUS Digital
-- **Enlace:** [Ver oferta](https://careers.telusdigital.com/jobs/17860158-ai-data-annotation-specialist-portuguese-es)
 
 ## 4. DevOps, cloud y ciberseguridad
 
@@ -747,15 +540,6 @@ Ofertas tecnológicas verificadas individualmente como activas y disponibles par
 - **Fuente:** LinkedIn Jobs
 - **Enlace:** [Ver oferta](https://sv.linkedin.com/jobs/view/4446938110)
 
-### Analista de Auditoría de Sistemas — SERFINSA
-
-- **Modalidad:** Presencial
-- **Ubicación:** San Salvador, El Salvador
-- **Salario:** No publicado
-- **Publicación:** Hace 13 días — 2026-07-29
-- **Fuente:** TrabajosDiarios
-- **Enlace:** [Ver oferta](https://sv.trabajosdiarios.com/trabajo/3070247/analista-de-auditoria-de-sistemas-en-san-salvador)
-
 ### Especialista de Ciberseguridad Temporal — OE Internacional
 
 - **Modalidad:** No indicada
@@ -764,33 +548,6 @@ Ofertas tecnológicas verificadas individualmente como activas y disponibles par
 - **Publicación:** Hace 15 días — 2026-07-27
 - **Fuente:** Tecoloco El Salvador
 - **Enlace:** [Ver oferta](https://www.tecoloco.com.sv/1096699/analista-de-seguridad-informatica.aspx)
-
-### Especialista en Ciberseguridad y Redes — Multitel
-
-- **Modalidad:** No indicada
-- **Ubicación:** San Salvador, El Salvador
-- **Salario:** No publicado
-- **Publicación:** Hace 20 días — 2026-07-22
-- **Fuente:** TrabajosDiarios
-- **Enlace:** [Ver oferta](https://sv.trabajosdiarios.com/trabajo/3067068/especialista-en-ciberseguridad-y-redes-en-san-salvador)
-
-### SOC Analista Monitoreo Tier 1 — Devel Group
-
-- **Modalidad:** No indicada
-- **Ubicación:** San Salvador, El Salvador
-- **Salario:** No publicado
-- **Publicación:** Hace 27 días — 2026-07-15
-- **Fuente:** TrabajosDiarios
-- **Enlace:** [Ver oferta](https://sv.trabajosdiarios.com/trabajo/3064711/soc-analista-monitoreo-tier-1-el-salvador-san-salvador-en-san-salvador)
-
-### Analista DevOps — OPTIMA CONSULTORES
-
-- **Modalidad:** No indicada
-- **Ubicación:** San Salvador, El Salvador
-- **Salario:** USD 1,600 mensuales
-- **Publicación:** Hace 27 días — 2026-07-15
-- **Fuente:** TrabajosDiarios
-- **Enlace:** [Ver oferta](https://sv.trabajosdiarios.com/trabajo/3059930/analista-devops-en-san-salvador)
 
 ### Administrador de Ciberseguridad — Empresa confidencial
 
@@ -884,15 +641,6 @@ Ofertas tecnológicas verificadas individualmente como activas y disponibles par
 - **Fuente:** LinkedIn Jobs
 - **Enlace:** [Ver oferta](https://sv.linkedin.com/jobs/view/4441714979)
 
-### IT Support (Customer Services) — IDI Services
-
-- **Modalidad:** No indicada
-- **Ubicación:** San Salvador, El Salvador
-- **Salario:** USD 800–1,000 mensuales de base
-- **Publicación:** Hace 4 días — 2026-08-07
-- **Fuente:** TrabajosDiarios
-- **Enlace:** [Ver oferta](https://sv.trabajosdiarios.com/trabajo/3073637/it-support-customer-services-en-san-salvador)
-
 ### IT Support Specialist — Ria Money Transfer
 
 - **Modalidad:** Presencial
@@ -920,33 +668,6 @@ Ofertas tecnológicas verificadas individualmente como activas y disponibles par
 - **Fuente:** LinkedIn Jobs
 - **Enlace:** [Ver oferta](https://sv.linkedin.com/jobs/view/4449186953)
 
-### Soporte Técnico IT — D'casa
-
-- **Modalidad:** No indicada
-- **Ubicación:** Santa Tecla, La Libertad
-- **Salario:** No publicado
-- **Publicación:** Hace 7 días — 2026-08-04
-- **Fuente:** TrabajosDiarios
-- **Enlace:** [Ver oferta](https://sv.trabajosdiarios.com/trabajo/3072401/soporte-tecnico-it-en-la-libertad)
-
-### Ingeniero Informático — WorkPeople El Salvador
-
-- **Modalidad:** No indicada
-- **Ubicación:** San Salvador, El Salvador
-- **Salario:** USD 1,000 mensuales
-- **Publicación:** Hace 10 días — 2026-08-01
-- **Fuente:** TrabajosDiarios
-- **Enlace:** [Ver oferta](https://sv.trabajosdiarios.com/trabajo/3066510/ingenieroa-informatico-en-san-salvador)
-
-### Agente NOC - ITS — ITS INFOCOM ESA
-
-- **Modalidad:** Presencial
-- **Ubicación:** San Benito, San Salvador
-- **Salario:** No publicado
-- **Publicación:** Hace 14 días — 2026-07-28
-- **Fuente:** TrabajosDiarios
-- **Enlace:** [Ver oferta](https://sv.trabajosdiarios.com/trabajo/3044469/agente-noc-its-en-san-salvador)
-
 ### Auxiliar de Soporte Técnico IT — Almacenes Vidrí
 
 - **Modalidad:** No indicada
@@ -955,15 +676,6 @@ Ofertas tecnológicas verificadas individualmente como activas y disponibles par
 - **Publicación:** Hace 14 días — 2026-07-28
 - **Fuente:** Tecoloco El Salvador
 - **Enlace:** [Ver oferta](https://www.tecoloco.com.sv/1096775/soporte-tecnico.aspx)
-
-### Técnico Informático — ECODENA El Salvador
-
-- **Modalidad:** No indicada
-- **Ubicación:** Ilopango, San Salvador
-- **Salario:** No publicado
-- **Publicación:** Hace 22 días — 2026-07-20
-- **Fuente:** TrabajosDiarios
-- **Enlace:** [Ver oferta](https://sv.trabajosdiarios.com/trabajo/3065917/tecnico-informatico-en-san-salvador)
 
 ### Soporte Técnico Aplicaciones SV — Tecoloco
 
@@ -1000,15 +712,6 @@ Ofertas tecnológicas verificadas individualmente como activas y disponibles par
 - **Publicación:** Hace 36 días — 2026-07-06
 - **Fuente:** Tecoloco El Salvador
 - **Enlace:** [Ver oferta](https://www.tecoloco.com.sv/1090662/analista-programador.aspx)
-
-### Especialista Operación Soporte Informática — Aspiraciones Human Capital
-
-- **Modalidad:** No indicada
-- **Ubicación:** San Salvador, El Salvador
-- **Salario:** No publicado
-- **Publicación:** Hace 38 días — 2026-07-04
-- **Fuente:** TrabajosDiarios
-- **Enlace:** [Ver oferta](https://sv.trabajosdiarios.com/trabajo/3060024/especialista-operacion-soporte-informatica-en-san-salvador)
 
 ### Analista Gestión Integrada de Servicios de TI — Banco Agrícola
 
@@ -1077,15 +780,6 @@ Ofertas tecnológicas verificadas individualmente como activas y disponibles par
 - **Fuente:** Tecoloco El Salvador
 - **Enlace:** [Ver oferta](https://www.tecoloco.com.sv/1094600/ejecutivo-de-banco.aspx)
 
-### Scrum Master — Sistemas Pliret
-
-- **Modalidad:** No indicada
-- **Ubicación:** San Salvador, El Salvador
-- **Salario:** No publicado
-- **Publicación:** Hace 25 días — 2026-07-17
-- **Fuente:** TrabajosDiarios
-- **Enlace:** [Ver oferta](https://sv.trabajosdiarios.com/trabajo/3065450/scrum-master-en-san-salvador)
-
 ### Analista de Procesos (Tecnología) — Empresa confidencial
 
 - **Modalidad:** Híbrido
@@ -1122,40 +816,18 @@ Ofertas tecnológicas verificadas individualmente como activas y disponibles par
 - **Fuente:** LinkedIn Jobs
 - **Enlace:** [Ver oferta](https://sv.linkedin.com/jobs/view/4440574034)
 
-### Director de Tecnología — Conexion Talento
-
-- **Modalidad:** Híbrido
-- **Ubicación:** San Salvador, El Salvador, Zona Central
-- **Salario:** USD 8,000 mensuales
-- **Publicación:** No disponible
-- **Fuente:** Página oficial de Conexion Talento
-- **Enlace:** [Ver oferta](https://miplandecarrera.conexiontalento.com/jobs/7831439-director-de-tecnologia-ingles-avanzado)
-
-### Manager SaaS Platforms - Solutions Architecture Manager — TELUS Digital
-
-- **Modalidad:** Presencial
-- **Ubicación:** Santa Tecla, La Libertad
-- **Salario:** No publicado
-- **Publicación:** No disponible
-- **Fuente:** Página oficial de TELUS Digital
-- **Enlace:** [Ver oferta](https://careers.telusdigital.com/jobs/17273070-manager-saas-platforms-solutions-architecture-manager)
-
 ## Fuentes consultadas
 
-- **Páginas oficiales:** fichas vigentes y con botón de aplicación de TELUS Digital Careers y la ficha oficial de Director de Tecnología de Conexion Talento.
-- **TrabajosDiarios El Salvador:** búsquedas explícitas en español e inglés, páginas 1 y 2 por término, páginas 1 y 2 de Sistemas Pliret y cada oferta individual incluida; se validaron fecha, vigencia, modalidad y salario directamente en los datos de cada ficha.
 - **Tecoloco El Salvador:** búsquedas explícitas bilingües, páginas 1 y 2 por término, listado público de Informática y páginas individuales; se verificó que la fecha de expiración fuera posterior a esta actualización.
 - **Computrabajo El Salvador:** búsquedas explícitas en español e inglés en dos páginas por término; ante el bloqueo automatizado se revisaron listados públicos indexados y fichas individuales, excluyendo resultados sin ficha verificable.
 - **LinkedIn Jobs:** búsquedas explícitas en español e inglés para El Salvador y sus principales ciudades, páginas 1 y 2 por consulta y fichas individuales; se retiraron publicaciones que indicaban que ya no aceptaban solicitudes y las que tenían datos contradictorios.
-- **beBee El Salvador:** búsquedas secundarias explícitas en español e inglés, búsquedas dirigidas por dominio, resultados públicos paginados y ofertas individuales; las rutas individuales revisadas devolvieron 404 o no permitieron resolver contradicciones con una fuente más directa, por lo que no se conservó ningún resultado.
 
 ### Términos probados en cada bolsa
 
-En TrabajosDiarios, Tecoloco, Computrabajo, LinkedIn Jobs y beBee se probaron, como mínimo, todos estos términos y variantes, combinados según el portal con **El Salvador**, **San Salvador**, **La Libertad**, **Santa Tecla** y otras ubicaciones salvadoreñas. También se usaron búsquedas dirigidas por dominio y se revisó más de una página cuando estuvo disponible.
+En Tecoloco, Computrabajo y LinkedIn Jobs se probaron, como mínimo, todos estos términos y variantes, combinados según el portal con **El Salvador**, **San Salvador**, **La Libertad**, **Santa Tecla** y otras ubicaciones salvadoreñas. Se revisó más de una página cuando estuvo disponible.
 
 - Español: analista de datos; administrador de base de datos; administrador de bases de datos; ingeniero de datos; científico de datos; desarrollador; programador; analista programador; ingeniero de software; soporte técnico; técnico de soporte; administrador de sistemas; administrador de redes; ingeniero de redes; seguridad informática; ciberseguridad; analista QA; control de calidad; control de calidad de software; inteligencia artificial; especialista en tecnología; jefe de informática; gerente de tecnología; producto digital; diseñador UX; diseñador UI; Scrum Master.
 - Inglés: Software Engineer; Software Developer; Backend Developer; Frontend Developer; Full Stack Developer; Mobile Developer; iOS Developer; Android Developer; Data Analyst; Data Engineer; Data Scientist; Database Administrator; QA Engineer; QA Analyst; Quality Assurance; DevOps Engineer; Cloud Engineer; Cybersecurity Analyst; Security Engineer; IT Support; Technical Support; Systems Administrator; Network Engineer; Product Manager; UX Designer; UI Designer; Scrum Master.
-- Búsquedas dirigidas incluyeron: `site:sv.trabajosdiarios.com/trabajo desarrollador`, `site:sv.trabajosdiarios.com/trabajo "ingeniero de datos"`, `site:sv.trabajosdiarios.com/trabajo "Software Engineer"`, `site:bebee.com/sv/jobs tecnología "San Salvador"` y `site:bebee.com/sv/jobs "Data Engineer"`.
 
 > Las ofertas pueden cambiar, cerrarse o modificarse después de esta actualización. Confirma los detalles en el enlace directo antes de postularte.
 

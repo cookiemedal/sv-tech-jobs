@@ -1,8 +1,8 @@
 # Empleos Tech en El Salvador
 
-Actualizado: 2026-08-13 08:41 (America/El_Salvador)
+Actualizado: 2026-08-13 09:13 (America/El_Salvador)
 
-Vacantes activas verificadas: **53**
+Vacantes activas verificadas: **52**
 
 ## Desarrollo de software
 
@@ -11,7 +11,7 @@ Vacantes activas verificadas: **53**
 - **Modalidad:** No indicada
 - **Ubicación:** San Salvador, San Salvador
 - **Salario:** No publicado
-- **Antigüedad:** Hace 12 horas
+- **Antigüedad:** Hace 13 horas
 - **Fecha:** 2026-08-13
 - **Fuente:** Computrabajo El Salvador
 - **Enlace:** [Ver oferta y aplicar](https://sv.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrollador-jr-net-en-san-salvador-5E8C3800091C881261373E686DCF3405)
@@ -474,16 +474,6 @@ Vacantes activas verificadas: **53**
 - **Fuente:** Computrabajo El Salvador
 - **Enlace:** [Ver oferta y aplicar](https://sv.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-auxiliar-de-soporte-tecnico-en-la-libertad-2A100FF0F6FE2A6C61373E686DCF3405)
 
-### Técnico en Soporte IT/TI — Empresa no indicada
-
-- **Modalidad:** No indicada
-- **Ubicación:** Importante empresa del sector de restaurantes Santa Ana, Santa Ana
-- **Salario:** No publicado
-- **Antigüedad:** Hace 2 días
-- **Fecha:** 2026-08-11
-- **Fuente:** Computrabajo El Salvador
-- **Enlace:** [Ver oferta y aplicar](https://sv.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-tecnico-en-soporte-itti-en-santa-ana-2BD755D46907C79E61373E686DCF3405)
-
 ### Analista soporte técnico — CORPORACIÓN PIRÁMIDE, S.A. DE C.V.
 
 - **Modalidad:** No indicada
@@ -541,7 +531,7 @@ Vacantes activas verificadas: **53**
 - **Modalidad:** No indicada
 - **Ubicación:** Importante empresa del sector San Salvador, San Salvador
 - **Salario:** No publicado
-- **Antigüedad:** Hace 3 horas
+- **Antigüedad:** Hace 4 horas
 - **Fecha:** 2026-08-13
 - **Fuente:** Computrabajo El Salvador
 - **Enlace:** [Ver oferta y aplicar](https://sv.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-project-manager-en-san-salvador-E6A894B04D5E1D0161373E686DCF3405)

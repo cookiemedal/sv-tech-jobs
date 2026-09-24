@@ -1,17 +1,57 @@
 # Empleos Tech en El Salvador
 
-Actualizado: 2026-09-23 07:06 (America/El_Salvador)
+Actualizado: 2026-09-24 07:07 (America/El_Salvador)
 
 Vacantes activas verificadas: **51**
 
 ## Desarrollo de software
+
+### Fullstack Developer — Empresa no indicada
+
+- **Modalidad:** No indicada
+- **Ubicación:** Importante empresa del sector San Salvador, San Salvador
+- **Salario:** No publicado
+- **Antigüedad:** Hace 45 minutos
+- **Fecha:** 2026-09-24
+- **Fuente:** Computrabajo El Salvador
+- **Enlace:** [Ver oferta y aplicar](https://sv.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-fullstack-developer-en-san-salvador-BC7E7A000AD05DCA61373E686DCF3405)
+
+### Desarrollador Oracle — OE INTERNACIONAL
+
+- **Modalidad:** No indicada
+- **Ubicación:** San Salvador, San Salvador
+- **Salario:** No publicado
+- **Antigüedad:** Hace 22 horas
+- **Fecha:** 2026-09-24
+- **Fuente:** Computrabajo El Salvador
+- **Enlace:** [Ver oferta y aplicar](https://sv.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrollador-oracle-en-san-salvador-C47176FE12898BCA61373E686DCF3405)
+
+### Desarrollador Java Spring Boot — OE INTERNACIONAL
+
+- **Modalidad:** No indicada
+- **Ubicación:** San Salvador, San Salvador
+- **Salario:** No publicado
+- **Antigüedad:** Hace 21 horas
+- **Fecha:** 2026-09-24
+- **Fuente:** Computrabajo El Salvador
+- **Enlace:** [Ver oferta y aplicar](https://sv.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrollador-java-spring-boot-en-san-salvador-1D3A27E3EC2B2CBB61373E686DCF3405)
+
+### Desarrollador JAVA — NOVACOMP EL SALVADOR, S.A. de CV
+
+- **Modalidad:** No indicada
+- **Ubicación:** San Salvador, San Salvador
+- **Salario:** No publicado
+- **Antigüedad:** Hace 1 hora
+- **Fecha:** 2026-09-24
+- **Fuente:** Computrabajo El Salvador
+- **Enlace:** [Ver oferta y aplicar](https://sv.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrollador-java-en-san-salvador-E9CCD0407F71C8F361373E686DCF3405)
 
 ### Desarrollador RPG — NOVACOMP EL SALVADOR, S.A. de CV
 
 - **Modalidad:** No indicada
 - **Ubicación:** San Salvador, San Salvador
 - **Salario:** No publicado
-- **Antigüedad:** Hace 1 hora
+- **Antigüedad:** Ayer
 - **Fecha:** 2026-09-23
 - **Fuente:** Computrabajo El Salvador
 - **Enlace:** [Ver oferta y aplicar](https://sv.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrollador-rpg-en-san-salvador-A821469CE8ECA35F61373E686DCF3405)
@@ -21,7 +61,7 @@ Vacantes activas verificadas: **51**
 - **Modalidad:** No indicada
 - **Ubicación:** San Salvador, San Salvador
 - **Salario:** No publicado
-- **Antigüedad:** Hace 2 horas
+- **Antigüedad:** Ayer
 - **Fecha:** 2026-09-23
 - **Fuente:** Computrabajo El Salvador
 - **Enlace:** [Ver oferta y aplicar](https://sv.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-programador-en-san-salvador-B946851BD582877F61373E686DCF3405)
@@ -31,7 +71,7 @@ Vacantes activas verificadas: **51**
 - **Modalidad:** No indicada
 - **Ubicación:** San Salvador, San Salvador
 - **Salario:** No publicado
-- **Antigüedad:** Ayer
+- **Antigüedad:** Hace 2 días
 - **Fecha:** 2026-09-22
 - **Fuente:** Computrabajo El Salvador
 - **Enlace:** [Ver oferta y aplicar](https://sv.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-programador-java-en-san-salvador-F0659D575D37C71D61373E686DCF3405)
@@ -41,7 +81,7 @@ Vacantes activas verificadas: **51**
 - **Modalidad:** No indicada
 - **Ubicación:** San Salvador, San Salvador
 - **Salario:** No publicado
-- **Antigüedad:** Ayer
+- **Antigüedad:** Hace 2 días
 - **Fecha:** 2026-09-22
 - **Fuente:** Computrabajo El Salvador
 - **Enlace:** [Ver oferta y aplicar](https://sv.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrollador-oracle-en-san-salvador-3DA8FEDB8FC32E9761373E686DCF3405)
@@ -51,7 +91,7 @@ Vacantes activas verificadas: **51**
 - **Modalidad:** No indicada
 - **Ubicación:** Importante empresa del sector San Salvador, San Salvador
 - **Salario:** No publicado
-- **Antigüedad:** Ayer
+- **Antigüedad:** Hace 2 días
 - **Fecha:** 2026-09-22
 - **Fuente:** Computrabajo El Salvador
 - **Enlace:** [Ver oferta y aplicar](https://sv.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrollador-jr-en-san-salvador-948D36D603D5E9F361373E686DCF3405)
@@ -61,27 +101,17 @@ Vacantes activas verificadas: **51**
 - **Modalidad:** No indicada
 - **Ubicación:** San Salvador, San Salvador
 - **Salario:** 600.00 US$ (Mensual) + Comisiones
-- **Antigüedad:** Ayer
+- **Antigüedad:** Hace 2 días
 - **Fecha:** 2026-09-22
 - **Fuente:** Computrabajo El Salvador
 - **Enlace:** [Ver oferta y aplicar](https://sv.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrollador-de-cerveza-en-san-salvador-E11DEF36FAD6121761373E686DCF3405)
-
-### Brand Developer Junior — DISTRIBUIDORA SALVADOREÑA, S.A, DE C.V.
-
-- **Modalidad:** No indicada
-- **Ubicación:** Santa Tecla, La Libertad
-- **Salario:** No publicado
-- **Antigüedad:** Hace 2 días
-- **Fecha:** 2026-09-21
-- **Fuente:** Computrabajo El Salvador
-- **Enlace:** [Ver oferta y aplicar](https://sv.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-brand-developer-junior-en-santa-tecla-3C56A664F9612BB561373E686DCF3405)
 
 ### Analista programador — Empresa no indicada
 
 - **Modalidad:** No indicada
 - **Ubicación:** Importante empresa del sector San Marcos, San Salvador
 - **Salario:** 600.00 US$ (Mensual)
-- **Antigüedad:** Hace 2 días
+- **Antigüedad:** Hace 3 días
 - **Fecha:** 2026-09-21
 - **Fuente:** Computrabajo El Salvador
 - **Enlace:** [Ver oferta y aplicar](https://sv.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-programador-con-experiencia-en-programacion-de-sistemas-en-san-marcos-B626C2C4BFA1479E61373E686DCF3405)
@@ -91,7 +121,7 @@ Vacantes activas verificadas: **51**
 - **Modalidad:** No indicada
 - **Ubicación:** San Salvador, San Salvador
 - **Salario:** No publicado
-- **Antigüedad:** Hace 2 días
+- **Antigüedad:** Hace 3 días
 - **Fecha:** 2026-09-21
 - **Fuente:** Computrabajo El Salvador
 - **Enlace:** [Ver oferta y aplicar](https://sv.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-desarrollador-back-end-jr-en-san-salvador-D7A36A876377CEB361373E686DCF3405)
@@ -101,7 +131,7 @@ Vacantes activas verificadas: **51**
 - **Modalidad:** No indicada
 - **Ubicación:** Antiguo Cuscatlán, La Libertad
 - **Salario:** No publicado
-- **Antigüedad:** Hace 4 días
+- **Antigüedad:** Hace 5 días
 - **Fecha:** 2026-09-19
 - **Fuente:** Computrabajo El Salvador
 - **Enlace:** [Ver oferta y aplicar](https://sv.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrollador-net-en-antiguo-cuscatlan-970222819434D50F61373E686DCF3405)
@@ -111,7 +141,7 @@ Vacantes activas verificadas: **51**
 - **Modalidad:** No indicada
 - **Ubicación:** San Salvador, San Salvador
 - **Salario:** No publicado
-- **Antigüedad:** Hace 5 días
+- **Antigüedad:** Hace 6 días
 - **Fecha:** 2026-09-18
 - **Fuente:** Computrabajo El Salvador
 - **Enlace:** [Ver oferta y aplicar](https://sv.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrollador-java-broker-en-san-salvador-D29062797C2EAC0461373E686DCF3405)
@@ -121,40 +151,10 @@ Vacantes activas verificadas: **51**
 - **Modalidad:** No indicada
 - **Ubicación:** San Salvador, San Salvador
 - **Salario:** No publicado
-- **Antigüedad:** Hace 6 días
+- **Antigüedad:** Hace 7 días
 - **Fecha:** 2026-09-17
 - **Fuente:** Computrabajo El Salvador
 - **Enlace:** [Ver oferta y aplicar](https://sv.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrollador-net-en-san-salvador-2BA2B1B271E4498B61373E686DCF3405)
-
-### Fullstack Developer — Empresa no indicada
-
-- **Modalidad:** No indicada
-- **Ubicación:** Importante empresa del sector San Salvador, San Salvador
-- **Salario:** No publicado
-- **Antigüedad:** Hace 7 días
-- **Fecha:** 2026-09-16
-- **Fuente:** Computrabajo El Salvador
-- **Enlace:** [Ver oferta y aplicar](https://sv.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-fullstack-developer-en-san-salvador-BC7E7A000AD05DCA61373E686DCF3405)
-
-### Desarrollador Java — OE INTERNACIONAL
-
-- **Modalidad:** No indicada
-- **Ubicación:** San Salvador, San Salvador
-- **Salario:** No publicado
-- **Antigüedad:** Hace 7 días
-- **Fecha:** 2026-09-16
-- **Fuente:** Computrabajo El Salvador
-- **Enlace:** [Ver oferta y aplicar](https://sv.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrollador-java-en-san-salvador-052267C901A43B1E61373E686DCF3405)
-
-### Desarrollador JAVA — NOVACOMP EL SALVADOR, S.A. de CV
-
-- **Modalidad:** No indicada
-- **Ubicación:** San Salvador, San Salvador
-- **Salario:** No publicado
-- **Antigüedad:** Hace 7 días
-- **Fecha:** 2026-09-16
-- **Fuente:** Computrabajo El Salvador
-- **Enlace:** [Ver oferta y aplicar](https://sv.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrollador-java-en-san-salvador-E9CCD0407F71C8F361373E686DCF3405)
 
 ### Desarrollador Jr .NET — CodeCastle
 
@@ -166,7 +166,7 @@ Vacantes activas verificadas: **51**
 - **Fuente:** Computrabajo El Salvador
 - **Enlace:** [Ver oferta y aplicar](https://sv.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrollador-jr-net-en-san-salvador-5E8C3800091C881261373E686DCF3405)
 
-### Desarrollador Java Spring Boot — OE INTERNACIONAL
+### Desarrollador Java — OE INTERNACIONAL
 
 - **Modalidad:** No indicada
 - **Ubicación:** San Salvador, San Salvador
@@ -174,7 +174,7 @@ Vacantes activas verificadas: **51**
 - **Antigüedad:** No indicada
 - **Fecha:** No disponible
 - **Fuente:** Computrabajo El Salvador
-- **Enlace:** [Ver oferta y aplicar](https://sv.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrollador-java-spring-boot-en-san-salvador-1D3A27E3EC2B2CBB61373E686DCF3405)
+- **Enlace:** [Ver oferta y aplicar](https://sv.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrollador-java-en-san-salvador-052267C901A43B1E61373E686DCF3405)
 
 ## QA y testing
 
@@ -183,7 +183,7 @@ Vacantes activas verificadas: **51**
 - **Modalidad:** No indicada
 - **Ubicación:** Importante empresa del sector San Salvador, San Salvador
 - **Salario:** No publicado
-- **Antigüedad:** Hace 1 hora
+- **Antigüedad:** Ayer
 - **Fecha:** 2026-09-23
 - **Fuente:** Computrabajo El Salvador
 - **Enlace:** [Ver oferta y aplicar](https://sv.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-pruebas-qa-app-junior-en-san-salvador-484C0C2C831BC30161373E686DCF3405)
@@ -193,7 +193,7 @@ Vacantes activas verificadas: **51**
 - **Modalidad:** No indicada
 - **Ubicación:** San Salvador, San Salvador
 - **Salario:** 499.00 US$ (Mensual)
-- **Antigüedad:** Ayer
+- **Antigüedad:** Hace 2 días
 - **Fecha:** 2026-09-22
 - **Fuente:** Computrabajo El Salvador
 - **Enlace:** [Ver oferta y aplicar](https://sv.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-tester-qa-temporal-para-institucion-financiera-en-san-salvador-3C5A46C454FC95C461373E686DCF3405)
@@ -203,7 +203,7 @@ Vacantes activas verificadas: **51**
 - **Modalidad:** No indicada
 - **Ubicación:** San Salvador, San Salvador
 - **Salario:** No publicado
-- **Antigüedad:** Ayer
+- **Antigüedad:** Hace 2 días
 - **Fecha:** 2026-09-22
 - **Fuente:** Computrabajo El Salvador
 - **Enlace:** [Ver oferta y aplicar](https://sv.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-qa-engineer-en-san-salvador-B1B4D364141A9B4D61373E686DCF3405)
@@ -213,7 +213,7 @@ Vacantes activas verificadas: **51**
 - **Modalidad:** No indicada
 - **Ubicación:** Antiguo Cuscatlán, La Libertad
 - **Salario:** 950.00 US$ (Mensual)
-- **Antigüedad:** Hace 4 días
+- **Antigüedad:** Hace 5 días
 - **Fecha:** 2026-09-19
 - **Fuente:** Computrabajo El Salvador
 - **Enlace:** [Ver oferta y aplicar](https://sv.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-qa-nivel-intermedioavanzado-en-antiguo-cuscatlan-9577CA605B0B025161373E686DCF3405)
@@ -223,7 +223,7 @@ Vacantes activas verificadas: **51**
 - **Modalidad:** No indicada
 - **Ubicación:** San Salvador, San Salvador
 - **Salario:** No publicado
-- **Antigüedad:** Hace 4 días
+- **Antigüedad:** Hace 5 días
 - **Fecha:** 2026-09-19
 - **Fuente:** Computrabajo El Salvador
 - **Enlace:** [Ver oferta y aplicar](https://sv.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-qa-en-san-salvador-7FE51691866E757B61373E686DCF3405)
@@ -233,7 +233,7 @@ Vacantes activas verificadas: **51**
 - **Modalidad:** No indicada
 - **Ubicación:** San Salvador, San Salvador
 - **Salario:** No publicado
-- **Antigüedad:** Hace 5 días
+- **Antigüedad:** Hace 6 días
 - **Fecha:** 2026-09-18
 - **Fuente:** Computrabajo El Salvador
 - **Enlace:** [Ver oferta y aplicar](https://sv.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-qa-automatizado-en-san-salvador-E43E25CC9D62597561373E686DCF3405)
@@ -243,7 +243,7 @@ Vacantes activas verificadas: **51**
 - **Modalidad:** No indicada
 - **Ubicación:** San Salvador, San Salvador
 - **Salario:** No publicado
-- **Antigüedad:** Hace 6 días
+- **Antigüedad:** Hace 7 días
 - **Fecha:** 2026-09-17
 - **Fuente:** Computrabajo El Salvador
 - **Enlace:** [Ver oferta y aplicar](https://sv.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-pruebas-qa-en-san-salvador-7B287A00803FE7F961373E686DCF3405)
@@ -275,7 +275,7 @@ Vacantes activas verificadas: **51**
 - **Modalidad:** No indicada
 - **Ubicación:** San Salvador, San Salvador
 - **Salario:** No publicado
-- **Antigüedad:** Hace 2 horas
+- **Antigüedad:** Ayer
 - **Fecha:** 2026-09-23
 - **Fuente:** Computrabajo El Salvador
 - **Enlace:** [Ver oferta y aplicar](https://sv.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-data-engineer-en-san-salvador-3C56CBB8373FDE0061373E686DCF3405)
@@ -285,7 +285,7 @@ Vacantes activas verificadas: **51**
 - **Modalidad:** No indicada
 - **Ubicación:** Importante empresa del sector San Salvador, San Salvador
 - **Salario:** No publicado
-- **Antigüedad:** Hace 1 hora
+- **Antigüedad:** Ayer
 - **Fecha:** 2026-09-23
 - **Fuente:** Computrabajo El Salvador
 - **Enlace:** [Ver oferta y aplicar](https://sv.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-administrador-de-base-de-datos-junior-en-san-salvador-08A6DDEAF13AAAF061373E686DCF3405)
@@ -295,7 +295,7 @@ Vacantes activas verificadas: **51**
 - **Modalidad:** No indicada
 - **Ubicación:** Importante empresa del sector San Miguel, San Miguel
 - **Salario:** No publicado
-- **Antigüedad:** Hace 2 días
+- **Antigüedad:** Hace 3 días
 - **Fecha:** 2026-09-21
 - **Fuente:** Computrabajo El Salvador
 - **Enlace:** [Ver oferta y aplicar](https://sv.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-datos-san-miguel-san-miguel-en-san-miguel-BE7895B0972B26C261373E686DCF3405)
@@ -347,7 +347,7 @@ Vacantes activas verificadas: **51**
 - **Modalidad:** No indicada
 - **Ubicación:** San Salvador, San Salvador
 - **Salario:** No publicado
-- **Antigüedad:** Hace 19 minutos
+- **Antigüedad:** Ayer
 - **Fecha:** 2026-09-23
 - **Fuente:** Computrabajo El Salvador
 - **Enlace:** [Ver oferta y aplicar](https://sv.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-devops-en-san-salvador-C0C146C3A82BBDF361373E686DCF3405)
@@ -357,7 +357,7 @@ Vacantes activas verificadas: **51**
 - **Modalidad:** No indicada
 - **Ubicación:** Importante empresa del sector San Salvador, San Salvador
 - **Salario:** No publicado
-- **Antigüedad:** Hace 2 días
+- **Antigüedad:** Hace 3 días
 - **Fecha:** 2026-09-21
 - **Fuente:** Computrabajo El Salvador
 - **Enlace:** [Ver oferta y aplicar](https://sv.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-ciberseguridad-en-san-salvador-3C51B59C3DBBB03161373E686DCF3405)
@@ -374,12 +374,32 @@ Vacantes activas verificadas: **51**
 
 ## Soporte, redes e infraestructura
 
+### Soporte Técnico de Producto — Empresa no indicada
+
+- **Modalidad:** No indicada
+- **Ubicación:** Importante empresa del sector San Salvador, San Salvador
+- **Salario:** No publicado
+- **Antigüedad:** Hace 19 horas
+- **Fecha:** 2026-09-24
+- **Fuente:** Computrabajo El Salvador
+- **Enlace:** [Ver oferta y aplicar](https://sv.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-soporte-tecnico-de-producto-en-san-salvador-CAD53687AF3E78F661373E686DCF3405)
+
+### Soporte Técnico — Empresa no indicada
+
+- **Modalidad:** No indicada
+- **Ubicación:** Importante empresa del sector San Salvador, San Salvador
+- **Salario:** No publicado
+- **Antigüedad:** Hace 1 hora
+- **Fecha:** 2026-09-24
+- **Fuente:** Computrabajo El Salvador
+- **Enlace:** [Ver oferta y aplicar](https://sv.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-soporte-tecnico-en-san-salvador-D48B20F197EF4A0061373E686DCF3405)
+
 ### Tecnico soporte IT — American Security, S.A. de C.V.
 
 - **Modalidad:** No indicada
 - **Ubicación:** San Salvador, San Salvador
 - **Salario:** 550.00 US$ (Mensual)
-- **Antigüedad:** Hace 15 horas
+- **Antigüedad:** Ayer
 - **Fecha:** 2026-09-23
 - **Fuente:** Computrabajo El Salvador
 - **Enlace:** [Ver oferta y aplicar](https://sv.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-tecnico-soporte-it-en-san-salvador-4004DD6C9CF2351761373E686DCF3405)
@@ -389,7 +409,7 @@ Vacantes activas verificadas: **51**
 - **Modalidad:** No indicada
 - **Ubicación:** San Salvador, San Salvador
 - **Salario:** No publicado
-- **Antigüedad:** Hace 19 horas
+- **Antigüedad:** Ayer
 - **Fecha:** 2026-09-23
 - **Fuente:** Computrabajo El Salvador
 - **Enlace:** [Ver oferta y aplicar](https://sv.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-tecnico-auxiliar-en-instalacion-de-sistemas-de-refrigeracion-san-salvador-en-san-salvador-5EACC0FDCA9DCFC961373E686DCF3405)
@@ -399,7 +419,7 @@ Vacantes activas verificadas: **51**
 - **Modalidad:** No indicada
 - **Ubicación:** Ciudad Arce, La Libertad
 - **Salario:** 750.00 US$ (Mensual)
-- **Antigüedad:** Hace 1 hora
+- **Antigüedad:** Ayer
 - **Fecha:** 2026-09-23
 - **Fuente:** Computrabajo El Salvador
 - **Enlace:** [Ver oferta y aplicar](https://sv.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-soporte-tecnico-de-aplicaciones-en-ciudad-arce-C0911323DAA826EF61373E686DCF3405)
@@ -409,7 +429,7 @@ Vacantes activas verificadas: **51**
 - **Modalidad:** No indicada
 - **Ubicación:** San Salvador, San Salvador
 - **Salario:** No publicado
-- **Antigüedad:** Hace 16 horas
+- **Antigüedad:** Ayer
 - **Fecha:** 2026-09-23
 - **Fuente:** Computrabajo El Salvador
 - **Enlace:** [Ver oferta y aplicar](https://sv.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-jefe-de-soporte-it-en-san-salvador-DCC57B9F9C097FB061373E686DCF3405)
@@ -419,7 +439,7 @@ Vacantes activas verificadas: **51**
 - **Modalidad:** No indicada
 - **Ubicación:** Nejapa, San Salvador
 - **Salario:** 500.00 US$ (Mensual)
-- **Antigüedad:** Hace 2 horas
+- **Antigüedad:** Ayer
 - **Fecha:** 2026-09-23
 - **Fuente:** Computrabajo El Salvador
 - **Enlace:** [Ver oferta y aplicar](https://sv.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-gestor-de-redes-nejapa-en-nejapa-89FBB8DFAE41BEE761373E686DCF3405)
@@ -429,7 +449,7 @@ Vacantes activas verificadas: **51**
 - **Modalidad:** No indicada
 - **Ubicación:** San Salvador, San Salvador
 - **Salario:** 700.00 US$ (Mensual)
-- **Antigüedad:** Ayer
+- **Antigüedad:** Hace 2 días
 - **Fecha:** 2026-09-22
 - **Fuente:** Computrabajo El Salvador
 - **Enlace:** [Ver oferta y aplicar](https://sv.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-tecnico-en-soporte-de-redes-it-san-salvador-en-san-salvador-11293AC0EDE7433D61373E686DCF3405)
@@ -439,7 +459,7 @@ Vacantes activas verificadas: **51**
 - **Modalidad:** No indicada
 - **Ubicación:** San Salvador, San Salvador
 - **Salario:** No publicado
-- **Antigüedad:** Ayer
+- **Antigüedad:** Hace 2 días
 - **Fecha:** 2026-09-22
 - **Fuente:** Computrabajo El Salvador
 - **Enlace:** [Ver oferta y aplicar](https://sv.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-tecnico-en-redes-en-san-salvador-1939055261B1C38161373E686DCF3405)
@@ -449,47 +469,27 @@ Vacantes activas verificadas: **51**
 - **Modalidad:** No indicada
 - **Ubicación:** Santa Ana, Santa Ana
 - **Salario:** No publicado
-- **Antigüedad:** Ayer
+- **Antigüedad:** Hace 2 días
 - **Fecha:** 2026-09-22
 - **Fuente:** Computrabajo El Salvador
 - **Enlace:** [Ver oferta y aplicar](https://sv.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-tecnico-de-soporte-it-santa-ana-en-santa-ana-7367AC20B21E4AA661373E686DCF3405)
-
-### Soporte Técnico de Producto — Empresa no indicada
-
-- **Modalidad:** No indicada
-- **Ubicación:** Importante empresa del sector San Salvador, San Salvador
-- **Salario:** No publicado
-- **Antigüedad:** Ayer
-- **Fecha:** 2026-09-22
-- **Fuente:** Computrabajo El Salvador
-- **Enlace:** [Ver oferta y aplicar](https://sv.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-soporte-tecnico-de-producto-en-san-salvador-CAD53687AF3E78F661373E686DCF3405)
 
 ### Ingeniero de Redes Juniper — Flowing Rivers S.A de C.V
 
 - **Modalidad:** No indicada
 - **Ubicación:** San Salvador, San Salvador
 - **Salario:** No publicado
-- **Antigüedad:** Hace 2 días
+- **Antigüedad:** Hace 3 días
 - **Fecha:** 2026-09-21
 - **Fuente:** Computrabajo El Salvador
 - **Enlace:** [Ver oferta y aplicar](https://sv.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ingeniero-de-redes-juniper-san-salvador-en-san-salvador-E0997F1E92D70CD561373E686DCF3405)
-
-### Auxiliar de soporte técnico — C. Imberton, S.A.
-
-- **Modalidad:** No indicada
-- **Ubicación:** La Libertad, La Libertad
-- **Salario:** No publicado
-- **Antigüedad:** Hace 3 días
-- **Fecha:** 2026-09-20
-- **Fuente:** Computrabajo El Salvador
-- **Enlace:** [Ver oferta y aplicar](https://sv.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-auxiliar-de-soporte-tecnico-en-la-libertad-2A100FF0F6FE2A6C61373E686DCF3405)
 
 ### Auditor de Sistemas TI — Latin Top Jobs
 
 - **Modalidad:** No indicada
 - **Ubicación:** San Salvador, San Salvador
 - **Salario:** 2,600.00 US$ (Mensual)
-- **Antigüedad:** Hace 4 días
+- **Antigüedad:** Hace 5 días
 - **Fecha:** 2026-09-19
 - **Fuente:** Computrabajo El Salvador
 - **Enlace:** [Ver oferta y aplicar](https://sv.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-auditor-de-sistemas-ti-tecnologia-en-san-salvador-F4F9B8C88EF1EC4961373E686DCF3405)
@@ -499,7 +499,7 @@ Vacantes activas verificadas: **51**
 - **Modalidad:** No indicada
 - **Ubicación:** San Miguel, San Miguel
 - **Salario:** No publicado
-- **Antigüedad:** Hace 6 días
+- **Antigüedad:** Hace 7 días
 - **Fecha:** 2026-09-17
 - **Fuente:** Computrabajo El Salvador
 - **Enlace:** [Ver oferta y aplicar](https://sv.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-tecnico-de-mantenimiento-y-reparacion-de-sistemas-de-transporte-vertical-san-miguel-en-san-miguel-7F3CF757F21A220D61373E686DCF3405)
